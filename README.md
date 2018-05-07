@@ -7,7 +7,7 @@ In this text adventure game, you will play as a participant of Holy Grail War, a
 
 ## How to install
 - Clone or download this repo
-- Make sure OCaml and its dependencies are installed (if you have any trouble installing OCaml, please refer to this site: http://www.cs.cornell.edu/courses/cs3110/2018sp/install.html)
+- Make sure OCaml and its dependencies are installed (if you have any trouble installing OCaml, please refer to [this website](http://www.cs.cornell.edu/courses/cs3110/2018sp/install.html))
 - In command line, run `make play` to start the game engine
 - Enter `fateoc.json` to start the game
 
