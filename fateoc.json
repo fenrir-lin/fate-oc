@@ -1,0 +1,5250 @@
+{
+  "rooms": [{
+    "id": "introduction",
+    "descriptions": [{
+      "requires": [],
+      "text": "Intrepid adventurer, welcome to the world of
+
+      ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄
+     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+     ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀
+     ▐░▌          ▐░▌       ▐░▌     ▐░▌     ▐░▌
+     ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄▄▄
+     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░░▌
+     ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌     ▐░▌     ▐░█▀▀▀▀▀▀▀▀▀
+     ▐░▌          ▐░▌       ▐░▌     ▐░▌     ▐░▌
+     ▐░▌          ▐░▌       ▐░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄▄▄
+     ▐░▌          ▐░▌       ▐░▌     ▐░▌     ▐░░░░░░░░░░░▌
+      ▀            ▀         ▀       ▀       ▀▀▀▀▀▀▀▀▀▀▀
+
+  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄       ▄▄  ▄
+ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌     ▐░░▌▐░▌
+ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌   ▐░▐░▌▐░▌
+ ▐░▌       ▐░▌▐░▌          ▐░▌       ▐░▌▐░▌▐░▌ ▐░▌▐░▌▐░▌
+ ▐░▌       ▐░▌▐░▌          ▐░█▄▄▄▄▄▄▄█░▌▐░▌ ▐░▐░▌ ▐░▌▐░▌
+ ▐░▌       ▐░▌▐░▌          ▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌▐░▌
+ ▐░▌       ▐░▌▐░▌          ▐░█▀▀▀▀▀▀▀█░▌▐░▌   ▀   ▐░▌▐░▌
+ ▐░▌       ▐░▌▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌
+ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░▌       ▐░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄
+ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌
+  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀
+
+In this game, you will play as a participant of Holy Grail War, and your
+goal is to defeat the other six participants, often referred to as MASTERs,
+and their companions called SERVANTs, who are HEROIC SPIRITs from history
+or legends.
+
+Servants have different classes that identifies their core skills:
+ARCHER is good at ranged attack.
+LANCER is good at using polearms like spear, pike, and, of course, lance.
+RIDER is most powerful when mounted, not necessarily on horses. Some
+  riders can even tame creatures like dragon.
+CASTER is not good at hands-on combat, but given enough time and magical
+  resources, they can build unbreakable magical fields to defend their
+  domain.
+ASSASSIN is not good at hands-on combat either. Their specialty is hiding
+  in darkness, looking for chances to direct fatal attack to hostile
+  masters, who are mortals much more vulnerable than their servant
+  companions.
+BERSERKER lost their sanity in exchange for greatly enhanced physical
+  strength.
+
+As a master yourself, of course, you have a servant as well. Your
+servant's name is ALTERA, and her class is SABER. Sabers are experts of
+edged weapons and close range combat.
+
+The Holy Grail War, however, is not taking place anywhere on earth.
+Instead it takes place in SE.RA.PH, the cyberspace created by a
+supercomputer named MOONCELL. Built on the far side of the moon, Mooncell
+is not a creation of mankind. Little is known about it, except that it
+holds Holy Grail Wars regularly, and that it has existed for more than
+10,000 years.
+
+By defeating other masters and servants, a participant can acquire pieces
+of REGALIA, which is the permission to enter core system of Mooncell.
+Once entered the core system, the victorious master and servant could use
+the enormous computational power of Mooncell to do whatever they want to.
+In this sense, the winner gains an omnipotent \"wish machine\".
+
+(TIPS: if you find any of the above terms confusing, seeking help from
+TYPE-MOON Wiki is a good idea.)
+
+Defeating other masters and servants is not an easy task. They are all
+staying in their DOMAINs, which are heavily guarded by FIREWALLs. You
+and Altera decided to be aggressive and try to break into their domains,
+but in order to do that you must first find VIRUSes that can break
+through firewalls.
+
+When ready, type START to begin your adventure!
+
+
+......
+
+ACKNOWLEDGEMENT: characters and background settings of this game are
+adapted from the video game FATE/EXTELLA as well as other products of
+TYPE-MOON company."
+    }],
+    "points": 500,
+    "exits": [
+      {
+        "direction": "start",
+        "room_id": "saber domain",
+        "keys": ["Regalia piece 1"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "saber domain",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"You are finally awake, master.\" a maiden dressed in white says,
+\"it's so great to see your health has restored.\"
+
+\"What happened?\" you asks. A headache is hindering you from recalling.
+
+\"We encountered Berserker and his master four days ago,\" says the maiden,
+\"and you was accidentally hit by a rock when I was combating Berserker.\"
+
+\"A rock?\"
+
+\"Yes. A rock about three meters in diameter.\"
+
+Now you recall everything. At the moment when the gigantic rock was flying
+towards you, you thought you were doomed. Fortunately, Mooncell implements
+Newtonian laws somewhat differently from Sir Newton would like it to, so you
+are still alive.
+
+You also recall that you are a participant of Holy Grail War, and the maiden
+standing in front of you is your servant, Altera. Servants are historic or
+legendary figures summoned by masters to assist their quest for Regalia,
+but you have never heard of anyone named Altera. You asked her about this
+once and she was appearently not willing to response. \"Maybe she has
+good reasons for hiding her true name,\" you think, \"maybe her weakness
+is as well-known as Achilles' heel so she wants to keep her true identity
+as an absolute secret so enemies can't take advantage of it.
+
+Altera's class is Saber, or Knight of the Sword. She is a great warrior and
+has demonstated great swordsmanship in past combats, but none of the other
+six participants has been defeated yet. Completely destorying your enemies,
+especially when they are famous figures from history or legend, requires more
+than just martial arts.
+
+\"I'm trying to be considerate, but I have to say that we do not have much
+time,\" Altera says, \"we haven't make any progress in finding viruses that
+can break into domains of other masters and servants for weeks. I would say
+we should set out now and explore SE.RA.PH to look for viruses and clues of
+how to defeat our enemies.\"
+
+Although still feeling pains coming from the back of your head, you agree
+with Altera. Delaying is the least helpful thing to do in such a competition.
+
+You can either go WEST to area 1-D3, go EAST to area 1-F3, go SOUTH to
+area 1-E4, or type INTRO to display the introduction again."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "west",
+        "room_id": "area 1-d3",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-f3",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 1-e4",
+        "keys": []
+      },
+      {
+        "direction": "intro",
+        "room_id": "introduction",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-d3",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are currently in area 1-D3. This area looks like a modern city.
+Neon signs are everywhere, electric cars are speeding along highways, and
+all streetlights are blindingly shining.
+
+\"They should definitely learn to conserve energy.\" you say.
+
+You can go SOUTH to area 1-D4 or go EAST to Saber's domain. Archer's domain
+is to the WEST but you cannot break through the firewall surrounding it."
+    },
+    {
+      "requires": ["V-AR"],
+      "text": "You are currently in area 1-D3. This area looks like a modern city.
+Neon signs are everywhere, electric cars are speeding along highways, and
+all streetlights are blindingly shining.
+
+\"They should definitely learn to conserve energy.\" you say.
+
+You can go SOUTH to area 1-D4 or go EAST to Saber's domain. Archer's domain
+is to the WEST. You now has the virus to break through its defense."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "area 1-d4",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "saber domain",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "archer domain",
+        "keys": ["V-AR"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-c4",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are currently in area 1-C4. This area looks like a modern city.
+You can see a bus station across the street and several skyscrapers in
+a distance.
+
+\"If you are tired we can find a coffee shop, rest for a while, and eat
+some snacks.\" Altera says.
+
+\"I'm fine.\" you say.
+
+You can go EAST to area 1-D4. Archer's domain is to the NORTH but you
+cannot break through the firewall surrounding it."
+    },
+    {
+      "requires": ["V-AR"],
+      "text": "You are currently in area 1-C4. This area looks like a modern city.
+You can see a bus station across the street and several skyscrapers in
+a distance.
+
+\"If you are tired we can find a coffee shop, rest for a while, and eat
+some snacks.\" Altera says.
+
+\"I'm fine.\" you say.
+
+You can go EAST to area 1-D4. Archer's domain is to the NORTH and now you
+have the viruses to break through its defense."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "east",
+        "room_id": "area 1-d4",
+        "keys": []
+      },
+      {
+        "direction": "north",
+        "room_id": "archer domain",
+        "keys": ["V-AR"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-d4",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are currently in area 1-D4. This area looks like a suburb.
+A pasture is not far away and some cows are roaming around.
+
+\"Maybe I should try milking a cow,\" you say, \"after the Holy Grail War
+is over, of course.\"
+
+\"Not a terrible idea.\" Altera nods.
+
+You can go NORTH to area 1-D3, go EAST to area 1-C4, or go WEST to area 1-E4.
+There is also a forest in the SOUTH."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-d3",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-c4",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-e4",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "forest",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-e4",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are currently in area 1-E4. This is a grassland with some free
+roaming animals.
+
+\"I'm not seeing anything interesting here,\" Altera says, \"we should keep
+going.\"
+
+You may go WEST to area 1-D4, go EAST to area 1-F4, go SOUTH to ladder,
+which allows you to travel between different levels in SE.RA.PH (there
+are three levels in total), or go NORTH to return to Saber domain."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "saber domain",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-d4",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-f4",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "1-ladder",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-f4",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are currently in area 1-F4. You can see giant Roman style aqueducts
+extending in northwest-southeast direction.
+
+\"Infrastructure built by the Romans. Interesting, this reminds me of
+something.\" Altera says, almost inaudibly.
+
+\"Maybe she is an heroine from ancient Rome?\" You doubt.
+
+\"I see walls of an ancient city in the NORTH. There is an open grassland
+in the WEST. Or we can go SOUTH to area 1-F5, but I'm not quite sure what's
+there.\" Altera turns to you and says, \"Which direction would you like
+to go?\""
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-f3",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-e4",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 1-f5",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-f3",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are currently in area 1-F3. This is undoubtablly the most sublime
+ancient city you have ever seen. There are temples, amphitheatres, and
+sculptures made from marble. Streets are paved with slabs of rocks, and
+aqueducts are feeding water into the bathhouse.
+
+\"This has to be Rome!\" you exclaim in excitement.
+
+\"This is Rome.\" Altera says in an indifferent voice.
+
+\"You have once been here, I suppose?\" you ask.
+
+Altera replies with a cold glance.
+
+\"Alright, alright.\" eager to end the awkward silent, you change subject
+\"The Colosseum is in the EAST, should we check it out?\"
+
+\"It's up to you.\"
+
+You can also go WEST to return to Saber domain, or go SOUTH to area 1-F4."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "east",
+        "room_id": "colosseum",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "saber domain",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 1-f4",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "colosseum",
+    "descriptions": [{
+      "requires": [],
+      "text": "When walking towards the Colosseum, you pass by the Colossus of Nero.
+This 30-meter bronze statue is somewhat different from what you have
+imagined. There must be something wrong about it, but what is it?
+
+Entering the Colosseum, you find that thousands of audience are seated,
+gazing into the center of the arena. You feel tension in the air, as if
+this is not a place for entertainment, but a place for slaughter - not
+just to gladiators and animals, but to the audience as well.
+
+\"Welcome to my concert, my most beloved Roman citizens!\" when you are
+trying to find seats for Altera and yourself, you heard a voice coming
+from the arena, \"I am the most popular singer in the entire Roman
+Empire, the ruler of Rome, the Emperor of Roses...\"
+
+The speaker intentionally stops for a while.
+
+\"...Yes! I am your ruler, the fifth Emperor of the glorious Roman
+Empire. I am Nero Claudius Caesar Augustus Germanicus!\"
+
+You turned to the arena, and to your surprise, you saw a girl in a dress
+as red as roses.
+
+\"Wait. Did she just said...\" shocked, you turn to Altera and ask.
+
+\"Yes, and no.\" knowing what you want to ask, Altera replies, \"her
+name is Nero Claudius, and she is indeed a Roman emperor, but this
+Nero is not the tyrant you know about.\"
+
+\"What do you mean by that.\"
+
+\"You probably think Mooncell is just a supercomputer, but it is more
+than that. It is an observatory, not built for observing distant
+celestial bodies, but built for observing all possible histories of
+human civilization.\" Altera talks about these astonishing facts in
+an emotionless voice, as if she is reading an owner's manual of a
+rice cooker, \"you can view Mooncell as a climate model that has
+been running for over 10,000 years. It regularly takes samples from
+events that are actually happening on the earth to adjust its model,
+and at the same time it runs simulations with different initial
+conditions to generate all possible courses humans could have taken.
+This Nero Claudius standing in the arena comes from one of the
+alternative histories, where Julius Caesar conquered Gaul two
+years eariler than in actual history, triggering a series of
+deviations.\"
+
+\"So... You also come from one of these alternative histories,
+I persume?\"
+
+\"I wouldn't deny, but I wouldn't admit either. It is possible to
+summon heroic spirits from other histories, but Mooncell generally
+avoids doing so becasue computationally it's more expensive.\" Altera
+stops, \"maybe I have told you too much.\"
+
+\"But Nero... She doesn't even have a master.\"
+
+\"She is not participating the Holy Grail War. Sometimes Mooncell
+would summon heroic spirits and allow them to freely move around in
+SE.RA.PH. It's not clear why it does so. Maybe just for fun, who
+knows? This entire cyberspace is under its full control after all.\"
+
+You have tons of questions for Altera, but a loud cry interrupted you.
+
+\"Where is my microphone?!!\" the girl yelled.
+
+You hear the audience heave a sign of relief.
+
+\"Whoever returns my microphone to me will be rewarded with a brand
+new DSLR camera, and,\" Nero accentuates, \"a virus, just in case
+there is any Holy Grail War participant in the audience.\"
+
+\"Well, I have many questions for you, but before that, let's find
+that microphone.\" you say.
+
+You may go NORTH to the Pantheon or go WEST to the streets of Rome."
+    },
+    {
+      "requires": ["microphone"],
+      "text": "When walking towards the Colosseum, you pass by the Colossus of Nero.
+This 30-meter bronze statue is somewhat different from what you have
+imagined. There must be something wrong about it, but what is it?
+
+Entering the Colosseum, you find that thousands of audience are seated,
+gazing into the center of the arena. You feel tension in the air, as if
+this is not a place for entertainment, but a place for slaughter - not
+just to gladiators and animals, but to the audience as well.
+
+\"Welcome to my concert, my most beloved Roman citizens!\" when you are
+trying to find seats for Altera and yourself, you heard a voice coming
+from the arena, \"I am the most popular singer in the entire Roman
+Empire, the ruler of Rome, the Emperor of Roses...\"
+
+\"Oh, no.\" Altera signs, \"I knew it. I knew it when I saw the walls
+of Rome. It's her.\" Altera signs again, much more heavily this time.
+
+The speaker intentionally stops for a while.
+
+\"...Yes! I am your ruler, the fifth Emperor of the glorious Roman
+Empire. I am Nero Claudius Caesar Augustus Germanicus!\"
+
+You turned to the arena, and to your surprise, you saw a girl in a dress
+as red as roses.
+
+\"Wait. Did she just said...\" shocked, you turn to Altera and ask.
+
+\"Yes, and no.\" knowing what you want to ask, Altera replies, \"her
+name is Nero Claudius, and she is indeed a Roman emperor, but this
+Nero is not the tyrant you know about.\"
+
+\"What do you mean by that.\"
+
+\"You probably think Mooncell is just a supercomputer, but it is more
+than that. It is an observatory, not built for observing distant
+celestial bodies, but built for observing all possible histories of
+human civilization.\" Altera talks about these astonishing facts in
+an emotionless voice, as if she is reading an owner's manual of a
+rice cooker, \"you can view Mooncell as a climate model that has
+been running for over 10,000 years. It regularly takes samples from
+events that are actually happening on the earth to adjust its model,
+and at the same time it runs simulations with different initial
+conditions to generate all possible courses humans could have taken.
+This Nero Claudius standing in the arena comes from one of the
+alternative histories, where Julius Caesar conquered Gaul two
+years eariler than in actual history, triggering a series of
+deviations.\"
+
+\"So... You also come from one of these alternative histories,
+I persume?\"
+
+\"I wouldn't deny, but I wouldn't agree either. It is possible to
+summon heroic spirits from other histories, but Mooncell generally
+avoids doing so becasue computationally it's more expensive.\" Altera
+stops, \"maybe I have told you too much.\"
+
+\"But Nero... She doesn't even have a master.\"
+
+\"She is not participating the Holy Grail War. Sometimes Mooncell
+would summon heroic spirits and allow them to freely move around in
+SE.RA.PH. It's not clear why it does so. Maybe just for fun, who
+knows? This entire cyberspace is under its full control afternall.\"
+
+You have tons of questions for Altera, but a loud cry interrupted you.
+
+\"Where is my microphone?!!\" the girl yelled.
+
+You hear the audience heave a sign of relief.
+
+\"Whoever returns my microphone to me will be rewarded with a brand
+new DSLR camera, and,\" Nero accentuates, \"a virus, just in case
+there is any Holy Grail War participant in the audience.\"
+
+\"I have found your microphone.\" you waved at her.
+
+You hear some despair groan from the audience.
+
+\"That's great! Thanks a lot!\" Nero sprints towards you, \"finally
+I can start my concert. Sorry for keeping you waiting for so long,
+my beloved Roman citizens!\"
+
+GO TALK TO NERO to collect your rewards. (go NORTH to the Pantheon or
+go WEST to the streets of Rome if you have already talked to her)"
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "talk to nero",
+        "room_id": "talk to nero",
+        "keys": ["microphone"]
+      },
+      {
+        "direction": "north",
+        "room_id": "pantheon",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-f3",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "pantheon",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are amazed by the Pantheon dome. \"I truly admire the creativity
+of ancient Romans.\" you say.
+
+\"Me too.\" Altera briefly responses.
+
+You perceive a trace of regret from her expressions.
+
+You can go SOUTH to return to the Colosseum."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "colosseum",
+        "keys": []
+      },
+      {
+        "direction": "talk to merlin",
+        "room_id": "avalon",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-f5",
+    "descriptions": [{
+      "requires": [],
+      "text": "This area features mountains and hills. The topography reminds you
+of somewhere in Scotland.
+
+There is a ladder in the WEST which allows you to travel between the three
+levels in SE.RA.PH. Area 1-F4 is in the NORTH and a desert is in the SOUTH.
+You can see the Land of Shadows, Lancer's domain, to the EAST, but you
+need to find a virus to break through its defense first before proceeding."
+    },
+    {
+      "requires": ["V-LA"],
+      "text": "This area features mountains and hills. The topography reminds you
+of somewhere in Scotland.
+
+There is a ladder in the WEST which allows you to travel between the three
+levels in SE.RA.PH. Area 1-F4 is in the NORTH and a desert is in the SOUTH.
+You can see the Land of Shadows, Lancer's domain, as well. Now you have
+a virus to break through its defense, go EAST when you're ready to challenge
+your enemy."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "desert",
+        "keys": []
+      },
+      {
+        "direction": "north",
+        "room_id": "area 1-f4",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "1-ladder",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "lancer domain",
+        "keys": ["V-LA"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "desert",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in a desert. Sun is burning, air is dry, sand is hot enough
+to melt aluminum, you'd better leave this area sooner.
+
+Area 1-F5 is in the NORTH, area 1-E6 is in the WEST, area 1-G6 is in the
+EAST, and there is an oasis in the SOUTH."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "oasis",
+        "keys": []
+      },
+      {
+        "direction": "north",
+        "room_id": "area 1-f5",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-e6",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-g6",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-g6",
+    "descriptions": [{
+      "requires": [],
+      "text": "This area is the rim of a desert. You see sparse vegetations,
+some rocks, and three camels.
+
+\"Oh, camel!\" you exclaim in admiration for the magnificent creatures.
+
+\"Be careful,\" Altera reminds, \"pythons may be hinding under those
+rocks.\"
+
+You may travel WEST to go deeper into the desert, or go SOUTH to the
+pyramid. The Land of Shadows, Lancer's domain, lies in the NORTH, but
+you don't have the virus to break into it."
+    },
+    {
+      "requires": ["V-LA"],
+      "text": "This area is the rim of a desert. You see sparse vegetations,
+some rocks, and three camels.
+
+\"Oh, camel!\" you exclaim in admiration for the magnificent creatures.
+
+\"Be careful,\" Altera reminds, \"pythons may be hinding under those
+rocks.\"
+
+You may travel WEST to go deeper into the desert, or go SOUTH to the
+pyramid. The Land of Shadows, Lancer's domain, lies in the NORTH. You
+may go that way when you're ready to challenge your enemy."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "pyramid",
+        "keys": []
+      },
+      {
+        "direction": "north",
+        "room_id": "lancer domain",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "desert",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "pyramid",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"Travellers, welcome to my realm!\" a voice says to you. Looking
+forward, you see a luxuriously dressed man standing under the pyramid.
+
+\"Have we met before?\" you ask.
+
+\"I presume we haven't. There aren't many masters in SE.RA.PH and I have
+met only two.\" the man says.
+
+\"May I know your name?\"
+
+\"Huh, I shall give you a hint.\" the man begins to recite a poem,
+which is somewhat familiar to you.
+
+\"I met a traveller from an antique land
+Who said: Two vast and trunkless legs of stone
+Stand in the desert... near them, on the sand,
+Half sunk, a shattered visage lies, whose frown,
+And wrinkled lip, and sneer of cold command,
+Tell that its sculptor well those passions read
+Which yet survive, stamped on these lifeless things,
+The hand that mocked them and the heart that fed...\"
+
+Now you recall that its author is Percy Shelley.
+
+\"Wait, so you are that pharaoh...\"
+
+\"Yes, my name is Ozymandias!\" the man raises his tone, interrupting
+you with a sonorous voice, \"king among all kings, the pharaoh of
+Egypt. Travellers, look on my works, and despair!\"
+
+\"That was an impressive introduction, your majesty.\" you say,
+\"we are looking for viruses for breaking through the defense of our
+enemies and weapons for defeating them, could you give us some
+help?\"
+
+\"I would be willing to, if you can do me a favor.\" the pharaoh
+replies, \"I lost my Sphnix about a week ago. I'm worried because
+it usually returns within two days. If you can bring it back to me,
+I would be very happy to give you some clues.\"
+
+\"Well, he sounds just like a cat owner.\" Altera murmurs.
+
+You may go NORTH to area 1-G6 or go WEST to oasis."
+    },
+    {
+      "requires": ["Sphnix"],
+      "text": "\"Travellers, welcome to my realm!\" a voice says to you. Looking
+forward, you see a luxuriously dressed man standing under the pyramid.
+
+\"Have we met before?\" you ask.
+
+\"I presume we haven't. There aren't many masters in SE.RA.PH and I have
+met only two.\" the man says.
+
+\"May I know your name?\"
+
+\"Huh, I shall give you a hint.\" the man begins to recite a poem,
+which is somewhat familiar to you.
+
+\"I met a traveller from an antique land
+Who said: Two vast and trunkless legs of stone
+Stand in the desert... near them, on the sand,
+Half sunk, a shattered visage lies, whose frown,
+And wrinkled lip, and sneer of cold command,
+Tell that its sculptor well those passions read
+Which yet survive, stamped on these lifeless things,
+The hand that mocked them and the heart that fed...\"
+
+Now you recall that its author is Percy Shelley.
+
+\"Wait, so you are that pharaoh...\"
+
+\"Yes, my name is Ozymandias!\" the man raises his tone, interrupting
+you with a sonorous voice, \"king among all kings, the pharaoh of
+Egypt. Travellers, look on my works, and despair!\"
+
+\"That was an impressive introduction, your majesty.\" you say,
+\"we are looking for viruses for breaking through the defense of our
+enemies and weapons for defeating them, could you give us some
+help?\"
+
+\"I would be willing to, if you can do me a favor.\" the pharaoh
+replies, \"I lost my Sphnix about a week ago. I'm worried because
+it usually returns within two days. If you can bring it back to me,
+I would be very happy to give you some clues.\"
+
+\"Well, he sounds just like a cat owner.\" Altera murmurs, \" You
+should show him the Sphnix we found.\"
+
+You show Ozymandias the Sphnix.
+
+\"My little Sphnix! Where have you gone! You can't imagine how worried
+I was when you are away.\" Ozymandias sees the Sphnix you take with
+you and cries out in excitement.
+
+GO TALK TO OZYMANDIAS to collect your reward. You may also go NORTH to area
+1-G6 or go WEST to oasis."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-g6",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "oasis",
+        "keys": []
+      },
+      {
+        "direction": "talk to ozymandias",
+        "room_id": "talk to ozymandias",
+        "keys": ["Sphnix"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "oasis",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in an oasis with a lake and dense vegetations.
+
+A desert is in the NORTH, area 1-E7 is in the WEST, and a pyramid is
+in the EAST."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "desert",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-e7",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "pyramid",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-e7",
+    "descriptions": [{
+      "requires": [],
+      "text": "The topography of this area reminds you of the mountains of Greece.
+
+You may go NORTH to area 1-E6, go WEST to area 1-D7, or go EAST to an
+oasis. Berserker's domian lies in the SOUTH but you need a virus to
+get in."
+      },
+      {
+      "requires": ["V-BE"],
+      "text": "The topography of this area reminds you of the mountains of Greece.
+
+You may go NORTH to area 1-E6, go WEST to area 1-D7, or go EAST to an
+oasis. Berserker's domian lies in the SOUTH. Go that way if you are
+ready for battle."
+      }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-e6",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-d7",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "oasis",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "berserker domain",
+        "keys": ["V-BE"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-e6",
+    "descriptions": [{
+      "requires": [],
+      "text": "You walk into area 1-E6. A large crowd is gathering.
+
+You overhear fragments of a conversation:
+\"...there is a great prophet... on the second level... knows everything
+abuot this world...\"
+\"...in an office...\"
+\"...the prophet's favorite thing is mushroom...\"
+\"...no, not just one kind of mushroom... three kinds...\"
+
+You may go SOUTH to area 1-E7, EAST to desert, WEST to area 1-D6, or
+NORTH to ladder, which allows you to travel between the levels of
+SE.RA.PH."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "area 1-e7",
+        "keys": []
+      },
+      {
+        "direction": "north",
+        "room_id": "1-ladder",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-d6",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "desert",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-d6",
+    "descriptions": [{
+      "requires": [],
+      "text": "You walk into area 1-D6. This is the rim of a large forest. You may
+go NORTH into the forest, WEST to area 1-C6, EAST to area 1-E6, or
+SOUTH to area 1-D7."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "forest",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 1-d7",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-c6",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-e6",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-c6",
+    "descriptions": [{
+      "requires": [],
+      "text": "You walk into area 1-C6, which is a small town. Judged from the
+building styles and apparel of pedestrians, this is a Renaissance
+European town.
+
+You may go NORTH to area 1-C5 or EAST to area 1-D6. Caster's domain is
+in the SOUTH, but you need to collect three viruses to break into it
+because Caster cautiously built three layers of firewalls."
+    },
+    {
+      "requires": ["V-CA-I","V-CA-II","V-CA-III"],
+      "text": "You walk into area 1-C6, which is a small town. Judged from the
+building styles and apparel of pedestrians, this is a Renaissance
+European town.
+
+You may go NORTH to area 1-C5 or EAST to area 1-D6. Caster's domain is
+in the SOUTH, and you may break into it."
+    }
+    ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-c5",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "caster domain",
+        "keys": ["V-CA-I","V-CA-II","V-CA-III"]
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-d6",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-c5",
+    "descriptions": [{
+      "requires": [],
+      "text": "You walk into area 1-C5. This is a suburban area.
+
+You may go SOUTH to area 1-C6, NORTH to area 1-c4, EAST to forest.
+There is a shopping mall in WEST. But you are not carrying any cash
+or other methods of payment, so you'd better not enter there."
+    },
+    {
+      "requires": ["credit card"],
+      "text": "You walk into area 1-C5. This is a suburban area.
+
+You may go SOUTH to area 1-C6, NORTH to area 1-c4, EAST to forest.
+There is a shopping mall in WEST. Since you have a credit card with
+you, feel free to enter and buy something."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-c4",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 1-c6",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "shopping mall",
+        "keys": ["credit card"]
+      },
+      {
+        "direction": "east",
+        "room_id": "forest",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 1-d7",
+    "descriptions": [{
+      "requires": [],
+      "text": "You walk into area 1-D7. There is a monument in the center of
+this area. You walk closer and read its inscription:
+
+\"Right above this area exists a mausoleum of a great emperor
+The mausoleum is guarded by the greatest firewall among all firewalls
+The secret of defeating Gorgon is buried within the locked tomb
+But only those who are closely related to the emperor possess the key\"
+
+\"SE.RA.PH has three levels in total, and we are on the lowest level.\"
+Altera says, \"maybe we should go up after exploring this level.\"
+
+You may go NORTH to area 1-D6 or EAST to area 1-E7. Caster's domain is
+in the WEST, but you need to collect three viruses to break into it
+because Caster cautiously built three layers of firewalls."
+    },
+    {
+      "requires": ["V-CA-I","V-CA-II","V-CA-III"],
+      "text": "You walk into area 1-D7. There is a monument in the center of
+this area. You walk closer and read its inscription:
+
+\"Right above this area exists a mausoleum of a great emperor
+The mausoleum is guarded by the greatest firewall among all firewalls
+The secret of defeating Gorgon is buried within the locked tomb
+But only those who are closely related to the emperor possess the key\"
+
+\"SE.RA.PH has three levels in total, and we are on the lowest level.\"
+Altera says, \"maybe we should go up after exploring this level.\"
+
+You may go NORTH to area 1-D6 or EAST to area 1-E7. Caster's domain is
+in the WEST and you may go in if you are ready for battle."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-d6",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-e7",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "caster domain",
+        "keys": ["V-CA-I","V-CA-II","V-CA-III"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "forest",
+    "descriptions": [{
+      "requires": [],
+      "text": "You walk into a dense forest. The air is filled with moisture, so is
+the soil. You hear animals crawling but can spot none.
+
+\"I'm impressed by the variety of trees in this forest.\" Altera says,
+she walks cautiously, not to step onto any of the wild flowers blooming
+in open spaces between shadows of trees.
+
+\"Me too. But some of them appearently don't belong here.\"
+
+You may go NORTH to area 1-D4, SOUTH to area 1-D6, WEST to area 1-C5, or
+EAST to ladder, which allows you to travel to other levels in SE.RA.PH."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-d4",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 1-d6",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-c5",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "1-ladder",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "1-ladder",
+    "descriptions": [{
+      "requires": [],
+      "text": "You see a ladder in the center of this area. It is not a real ladder,
+but looks more like an elevator. But Mooncell insists to call it a ladder.
+
+\"There are more areas and domains to explore in the second level,\"
+Altera says, \"and the core of Mooncell can be accessed from the third
+level. We need to defeat all other participants and collect all seven
+pieces of Regalia before we can enter it, of course.\"
+
+You may go to 2ND LEVEL or 3RD LEVEL. You may also go NORTH to area 1-E4,
+SOUTH to area 1-E6, WEST to forest, or EAST to area 1-F5."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-e4",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 1-e6",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "forest",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-f5",
+        "keys": []
+      },
+      {
+        "direction": "2nd level",
+        "room_id": "2-ladder",
+        "keys": []
+      },
+      {
+        "direction": "3rd level",
+        "room_id": "3-ladder",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "2-ladder",
+    "descriptions": [{
+      "requires": [],
+      "text": "You see a ladder in the center of this area. It is not a real ladder,
+but looks more like an elevator. But Mooncell insists to call it a ladder.
+
+\"We may go get down the first level, where our domain locates,\"
+Altera says, \"or we can go up to the third level to check it out,
+but I doubt if there's anything other than the entrance to Mooncell
+core there.\"
+
+You may go to 1ST LEVEL or 3RD LEVEL. You may also go NORTH to area 2-E4,
+SOUTH to area 2-E6, WEST to area 2-D5, or EAST to area 2-F5."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 2-e4",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 2-e6",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 2-d5",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 2-f5",
+        "keys": []
+      },
+      {
+        "direction": "1st level",
+        "room_id": "1-ladder",
+        "keys": []
+      },
+      {
+        "direction": "3rd level",
+        "room_id": "3-ladder",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "3-ladder",
+    "descriptions": [{
+      "requires": [],
+      "text": "You see a ladder in the center of this area. It is not a real ladder,
+but looks more like an elevator. But Mooncell insists to call it a ladder.
+
+\"Oh, it seems that I was wrong,\" Altera says, \"there is something other
+than the entrance to Mooncell core in this level. Can you see the area in
+the north?\"
+
+\"Yes, I can see there is an area, but inside the area there is nothing
+but emptiness.\"
+
+You may go to 1ST LEVEL or 2ND LEVEL. You may also go NORTH to explore
+Kara no Kyoukai (\"Boundary of Emptiness\"), or SOUTH to the entrance
+to Mooncell core."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "kara no kyoukai",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "entrance to mooncell core",
+        "keys": []
+      },
+      {
+        "direction": "1st level",
+        "room_id": "1-ladder",
+        "keys": []
+      },
+      {
+        "direction": "2nd level",
+        "room_id": "2-ladder",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 2-e4",
+    "descriptions": [{
+      "requires": [],
+      "text": "There is nothing other than an unfinished building in this area.
+On the wall outside the main entrance of the builidng, you can barely
+recognize the two words:
+
+      FUJOU BUILDING
+
+\"I can feel ghost. We'd better leave.\" Altera says.
+
+\"You're afraid?\" you ask.
+
+Staring at you, Altera speaks in a serious tone, \"don't forget that I am
+a warrior. I once stained my blade with blood, I once left mountain of
+corpses behind wherever I go, and I was once haunted by vicious, revengful
+spirits of those who died in a siege, yet I managed to dispel them.
+No, I am not afraid of anything, not even death, when I am with my
+sword.\" She stops for a while, and says, \"My concern is they may harm
+you and I can't protect you from that, because physical attack is not
+very effective against ghost.\"
+
+\"I apologize. Let's go somewhere else.\"
+
+\"So, she was once a conqueror.\" you talks to yourself, in an
+inaudible voice.
+
+You may go NORTH to area 2-E3, WEST to area 2-D4, EAST to area 2-F4, or
+SOUTH to ladder, which allows you to travel to other levels in SE.RA.PH."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 2-e3",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "2-ladder",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 2-d4",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 2-f4",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 2-d4",
+    "descriptions": [{
+      "requires": [],
+      "text": "You enter area 2-D4, which is a wetland. A river gently stream through
+the middle of the area, a flock of waterfowl flap their wings at a
+distance.
+
+You see area 2-D3 to the NORTH, area 2-E4 to the EAST, and area 2-D5 to
+the SOUTH. Assassin's domain lies in the WEST, but you'd better search
+for the virus to breakthrough its firewall first."
+    },
+    {
+      "requires": ["V-AS"],
+      "text": "You enter area 2-D4, which is a wetland. A river gently stream through
+  the middle of the area, a flock of waterfowl flap their wings at a
+  distance.
+
+  You see area 2-D3 to the NORTH, area 2-E4 to the EAST, and area 2-D5 to
+  the SOUTH. Assassin's domain lies in the WEST, feel free to enter if
+  you are prepared for fending off sneaky attacks."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 2-d3",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 2-d5",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "assassin domain",
+        "keys": ["V-AS"]
+      },
+      {
+        "direction": "east",
+        "room_id": "area 2-e4",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 2-d3",
+    "descriptions": [{
+      "requires": [],
+      "text": "Entering area 2-D3, the first thing you see is the remains of an ancient
+Greek temple.
+
+\"Its style is somewhat different from the Pantheon, but equally
+spectacular.\" you say.
+
+\"I can't tell the difference between Roman and Greek styles, but,
+yeah, I agree, it's impressive.\" Altera halts for a while, and
+utters in low voice, \"how regrettable, it's been destroyed.\"
+
+You may go SOUTH to area 2-D4 or EAST to area 2-E3. Rider's domain
+locates in the NORTH, but make sure you have the required virus."
+    },
+    {
+      "requires": ["V-RI"],
+      "text": "Entering area 2-D3, the first thing you see is the remains of an ancient
+Greek temple.
+
+\"Its style is somewhat different from the Pantheon, but equally
+spectacular.\" you say.
+
+\"I can't tell the difference between Roman and Greek styles, but,
+yeah, I agree, it's impressive.\" Altera halts for a while, and
+utters in low voice, \"how regrettable, it's been destroyed.\"
+
+You may go SOUTH to area 2-D4 or EAST to area 2-E3. Rider's domain
+locates in the NORTH, advance when you are ready for combat."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "rider domain",
+        "keys": ["V-RI"]
+      },
+      {
+        "direction": "south",
+        "room_id": "area 2-d4",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 2-e3",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 2-e3",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in area 2-E3. This area looks like a university campus. You
+overhear some student's chat:
+\"...can't get in the computer lab... coding assignments...\"
+\"...building manager lost the key... a broze key...\"
+\"...intership... game company...\"
+\"...office of the game company... southeast...\"
+\"...3110 course website... hacked... don't download...\"
+
+You see a library entrance to the EAST, but the gate is locked. You may
+go WEST to area 2-D3 or SOUTH to area 2-E4."
+    },
+    {
+      "requires": ["bronze key"],
+      "text": "You are in area 2-E3. This area looks like a university campus. You
+overhear some student's chat:
+\"...can't get in the computer lab... tons of assignments...\"
+\"...building manager lost the key... a broze key...\"
+\"...intership... game company...\"
+\"...office of the game company... southeast...\"
+\"...3110 course website... hacked... don't download...\"
+
+You see a library entrance to the EAST. Its gate is locked, but you
+have a bronze key now, why not give it a shot?
+
+You may also go WEST to area 2-D3 or SOUTH to area 2-E4."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "area 2-e4",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 2-d3",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "library entrance",
+        "keys": ["bronze key"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 2-d5",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in area 2-D5. This area features highlands. You look to
+the south and find an area surrounded by an indestructible firewall.
+
+\"What is in that area?\" you ask Altera, \"even the domains of other
+masters and servants don't have a firewall like this.\"
+
+\"Something so powerful that must be heavily guarded, I guess\" replies
+Altera, \"we should explore in this level to see if there's any item
+we can exploit.\"
+
+You may go NORTH to area 2-D4, or EAST to ladder, which allows you
+travel to other levels in SE.RA.PH. The Great Firewall lies in the
+SOUTH but you're currently not able to pass through it."
+    },
+    {
+      "requires": ["VPN"],
+      "text": "You are in area 2-D5. This area features highlands. You look to
+the south and find an area surrounded by an indestructible firewall.
+
+Now you have a VPN, why not try using it to circumvent the Great
+Firewall?
+
+You may go NORTH to area 2-D4, EAST to ladder, which allows you
+travel to other levels in SE.RA.PH, or SOUTH to cross the Great
+Firewall."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 2-d4",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "the great firewall",
+        "keys": ["VPN"]
+      },
+      {
+        "direction": "east",
+        "room_id": "2-ladder",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 2-e6",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in area 2-E6. This area features highlands. Most of this area
+is covered by farmland. You look to the west and find an area surrounded
+by an indestructible firewall.
+
+\"What is in that area?\" you ask Altera, \"even the domains of other
+masters and servants don't have a firewall like this.\"
+
+\"Something so powerful that must be heavily guarded, I guess\" replies
+Altera, \"we should explore in this level to see if there's any item
+we can exploit.\"
+
+You may go NORTH to ladder, which allows you travel to other levels
+in SE.RA.PH. You may also go EAST to area 2-F6. The Great Firewall
+lies in the WEST but you're currently not able to pass through it."
+    },
+    {
+      "requires": ["VPN"],
+      "text": "You are in area 2-E6. This area features highlands. Most of this area
+is covered by farmland. You look to the west and find an area surrounded
+by an indestructible firewall.
+
+Now you have a VPN, why not try using it to circumvent the Great
+Firewall?
+
+You may go NORTH to ladder, which allows you travel to other levels
+in SE.RA.PH. You may also go EAST to area 2-F6. The Great Firewall
+lies in the WEST."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "2-ladder",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "the great firewall",
+        "keys": ["VPN"]
+      },
+      {
+        "direction": "east",
+        "room_id": "area 2-f6",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 2-f6",
+    "descriptions": [{
+      "requires": [],
+      "text": "You find that you are in an office building. You see many familiar
+logos of famous game companies and posters of well-known games on
+walls, but they do not interest you right now because you are looking
+for the office of the company that developed the FATE series.
+
+\"Do you know where is the office of TYPE-MOON?\" you ask a passer-by.
+
+\"Ah, are you going to seek inspiration from the great prophet?\"
+
+\"What great prophet?\"
+
+\"It's rumored that Nasu Kinoko, one co-founder of TYPE-MOON, knows
+everything about this world, so people call Kinoko a prophet. I don't
+know if it's true, but it won't hurt to ask Kinoko if you have some
+pressing questions. The office of TYPE-MOON is in the east.\"
+
+You thank the passer-by, look eastward, and see a door with a tiny
+metal plate above it. The logo of TYPE-MOON is on the plate.
+
+You may go EAST to enter TYPE-MOON office, NORTH to area 2-F5, or
+WEST to area 2-E6."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 2-f5",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "type moon office",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 2-e6",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "type moon office",
+    "descriptions": [{
+      "requires": [],
+      "text": "You walk into the office of TYPE-MOON. In the office, Takeuchi Takashi
+is debating with Wada Arco over character design for a new game,
+Shiokawa Yosuke is floating in the air for no obvious reason, and in
+the corner, Nasu Kinoko, Urobuchi Gen, Hikaru Sakurai, and Higashide
+Yuichiro are having a conversation.
+
+\"I'm sorry to interrupt, but I have some questions for Kinoko.\"
+
+\"Bring me three kinds of mushrooms, and I will answer all your
+questions. Now, please leave.\" Kinoko says, turning away from you
+and not looking back again.
+
+You should leave from the WEST and search for mushrooms."
+    },
+    {
+      "requires": ["white mushroom","enoki mushroom","oyster mushroom"],
+      "text": "You walk into the office of TYPE-MOON. In the office, Takeuchi Takashi
+is debating with Wada Arco over character design for a new game,
+Shiokawa Yosuke is floating in the air for no obvious reason, and in
+the corner, Nasu Kinoko, Urobuchi Gen, Hikaru Sakurai, and Higashide
+Yuichiro are having a conversation.
+
+\"I'm sorry to interrupt, but I have some questions for Kinoko.\"
+
+\"Oh! You have brought me mushrooms, thank you so much.\" Kinoko says,
+\"Now, what questions do you have for me?\"
+
+GO TALK TO KINOKO to ask any question hovering in your mind, or you can
+leave the office from WEST."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "west",
+        "room_id": "area 2-f6",
+        "keys": []
+      },
+      {
+        "direction": "talk to kinoko",
+        "room_id": "talk to kinoko",
+        "keys": ["white mushroom","enoki mushroom","oyster mushroom"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 2-f5",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in area 2-F5 now. This is a park, but there aren't many people
+despite the perfect weather.
+
+\"There's a monument.\" Altera points to the front.
+
+You walk up to the monument and learn from it that this park was built
+on the site of a great fire, which claimed hundreds of lives ten years
+ago.
+
+You mourned for the victims and decide to leave this park.
+
+You can go NORTH to area 2-F4 or SOUTH to area 2-F6. You may also go
+WEST to ladder, which allows you to travel to other levels in SE.RA.PH."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 2-f4",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "2-ladder",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 2-f6",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "area 2-f4",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in area 2-F4. This is a dining hall. Altera asks if you would
+like to order any food, but you are not feeling hungry, and you have
+more urgent tasks.
+
+You may go SOUTH to area 2-F5, WEST to area 2-E4, or NORTH to library
+entrance, but a locked bronze gate is preventing your entry."
+    },
+    {
+      "requires": ["bronze key"],
+      "text": "You are in area 2-F4. This is a dining hall. Altera asks if you would
+like to order any food, but you are not feeling hungry, and you have
+more urgent tasks.
+
+You may go SOUTH to area 2-F5, WEST to area 2-E4, or NORTH to library
+entrance. The gate of library is locked, but you can try if the bronze
+key in your inventory works."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "library entrance",
+        "keys": ["bronze key"]
+      },
+      {
+        "direction": "west",
+        "room_id": "area 2-e4",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 2-f5",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "library entrance",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are standing in the entrance hall of a library. Exhausted college
+students sustaining their lives with caffeine are here and there. Their
+appearance makes you doubt that surviving four years in college is more
+challenging than winning the Holy Grail War.
+
+\"We should check out the computer lab.\" Altera says.
+
+\"Checking out a computer lab in cyberspace? Sounds fun.\"
+
+You may proceed EAST to the computer lab, or leave the library from
+WEST or SOUTH."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "west",
+        "room_id": "area 2-e3",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "area 2-f4",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "computer lab",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "computer lab",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in the computer lab. You logged into a computer with your
+MooncellID and password and begin browsing useful information on the
+web. There are four websites that Altera suggest you to check out:
+ - LIBRARY.CORNELL.EDU
+ - TYPE MOON WIKI
+ - AMAZON.COM (requires payment method)
+ - CS3110.ORG
+
+You may browse any of four the websites or leave the computer lab
+from WEST."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "west",
+        "room_id": "library entrance",
+        "keys": []
+      },
+      {
+        "direction": "library.cornell.edu",
+        "room_id": "library.cornell.edu",
+        "keys": []
+      },
+      {
+        "direction": "type moon wiki",
+        "room_id": "type moon wiki",
+        "keys": []
+      },
+      {
+        "direction": "amazon.com",
+        "room_id": "amazon.com",
+        "keys": ["credit card"]
+      },
+      {
+        "direction": "cs3110.org",
+        "room_id": "cs3110.org",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "library.cornell.edu",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are browsing the Cornell University library website and get lost in
+the ocean of human knowledge.
+
+\"There is a saying, knowledge is power, right?\" Altera says, \"see
+if you can find something downloadable so that we can take it with
+use and take advantage of it when encountering enemies with great
+intellectual power.\"
+
+Type RETURN when you're done here."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "computer lab",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "type moon wiki",
+    "descriptions": [{
+      "requires": [],
+      "text": "Go to http://typemoon.wikia.com/wiki/TYPE-MOON_Wiki when you have difficulty
+understanding any of the terms in this game.
+
+Type RETURN when you're done here."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "computer lab",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "amazon.com",
+    "descriptions": [{
+      "requires": [],
+      "text": "You can't control yourself. You want to buy everything, especially after
+realizing that you are spending the money of Ozymandias instead of
+your own money.
+
+\"Online shopping is bad civilization.\" Altera mutters.
+
+Type RETURN when you're done here."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "computer lab",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "cs3110.org",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are browsing the course website of CS 3110. You notice that the
+writeup of assignment 29, 30, and 31 are all up.
+
+\"Look at how many assignments these poor students have to complete,\"
+you say, \"I'm going to download the release code and check out what
+they are working on.\"
+
+Altera nods, and says, \"sure, but don't spend too much time reading
+the codes.\"
+
+You download the release code for the three assignments and find that
+your computer is down.
+
+\"Bad news, they are computer viruses disguised as OCaml files.\"
+
+\"Isn't that good news for us?\" Altera says, \"viruses are what we
+need the most.\"
+
+Type RETURN when you're done here."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "computer lab",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "the great firewall",
+    "descriptions": [{
+      "requires": [],
+      "text": "With the help of virtual private network, you successfully crossed the
+Great Firewall.
+
+A magnificent mausoleum rises in the south. You recognize three
+Chinese characters inscribed above the entry to the tomb: Shi Huang
+Ling (Mausoleum of the First Qin Emperor, who is also known as
+Qin Shi Huang).
+
+\"No wonder,\" you say, \"the tomb of the builder of the most famous
+wall in history is protected by the greatest firewall of all
+firewalls. Makes tons of sense.\"
+
+\"The gate to the tomb is locked,\" Altera says, \"we should look
+for its key. I recall that I once stumbled into a monument in the first
+level. Some lines on that monument may help.\"
+
+You may go NORTH to area 2-D5 or EAST to area 2-E6."
+    },
+    {
+      "requires": ["stone key"],
+      "text": "With the help of virtual private network, you successfully crossed the
+Great Firewall.
+
+A magnificent mausoleum rises in the south. You recognize three
+Chinese characters inscribed above the entry to the tomb: Shi Huang
+Ling (Mausoleum of the First Qin Emperor, who is also known as
+Qin Shi Huang).
+
+\"No wonder,\" you say, \"the tomb of the builder of the most famous
+wall in history is protected by the greatest firewall of all
+firewalls. Makes tons of sense.\"
+
+\"The gate to the tomb is locked,\" Altera says, \"we should try the
+key Jing Ke gave us.\"
+
+You may go SOUTH to enter the tomb, NORTH to area 2-D5, or EAST to
+area 2-E6."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "tomb entrance",
+        "keys": ["stone key"]
+      },
+      {
+        "direction": "north",
+        "room_id": "area 2-d5",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 2-e6",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "tomb entrance",
+    "descriptions": [{
+      "requires": [],
+      "text": "You enter the entrance chamber of the Mausoleum of Qin Shi Huang.
+You are deeply impressed its vastness: the chamber is at least 20
+meters in height, and occupies a space comparable to a standard
+soccer field. There are reliefs on the walls, depicting how Qin
+Shi Huang conquered six states and brought ancient China into
+unification.
+
+You may go SOUTH to attempt entering the main chamber, but solving a
+series of puzzles is required. Or you can leave the tomb from NORTH."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "puzzle 0",
+        "keys": []
+      },
+      {
+        "direction": "north",
+        "room_id": "the great firewall",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "main chamber",
+    "descriptions": [{
+      "requires": [],
+      "text": "You enter the main chamber of the Mausoleum of Qin Shi Huang. A huge
+stone coffin locates in the center of the chamber, surrounded by
+thousands of terracotta sculptures of fully armored soldiers. You
+sense an object with great magical power.
+
+You may go NORTH to exit the main chamber (you will need to work out
+the puzzles again for reentry so make sure you have fully explored the
+tomb). You may also explore EAST or WEST side chambers, but both
+chambers require key for entry."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "tomb entrance",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "west chamber",
+        "keys": ["golden key"]
+      },
+      {
+        "direction": "east",
+        "room_id": "east chamber",
+        "keys": ["silver key"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "west chamber",
+    "descriptions": [{
+      "requires": [],
+      "text": "You enter the west chamber of the Mausoleum of Qin Shi Huang. It is so
+dark that you can't see any detail of the chamber. Altera suggests
+trying to walk in all directions, just in case there is any hidden
+room."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "west",
+        "room_id": "west hidden chamber",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "main chamber",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "west hidden chamber",
+    "descriptions": [{
+      "requires": [],
+      "text": "You find a secret door and enter the hidden chamber in the west side
+of Qin Shi Huang's mausoleum.
+
+You may go EAST to leave."
+    }],
+    "points": 2500,
+    "exits": [
+      {
+        "direction": "east",
+        "room_id": "west chamber",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "east chamber",
+    "descriptions": [{
+      "requires": [],
+      "text": "You enter the east chamber of the Mausoleum of Qin Shi Huang. It is so
+dark that you can't see any detail of the chamber. Altera suggests
+trying to walk in all directions, just in case there is any hidden
+room."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "east",
+        "room_id": "east hidden chamber",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "main chamber",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "east hidden chamber",
+    "descriptions": [{
+      "requires": ["Enuma Elish"],
+      "text": "You find a secret door and enter the hidden chamber in the east side
+of Qin Shi Huang's mausoleum. There is a luxuriously decorated gate
+made from pure gold on the east side of the chamber. The gate is locked,
+but you have a sword that looks somewhat like a key.
+
+You may go EAST to enter through the gate, or go WEST to leave."
+    },
+    {
+      "requires": [],
+      "text": "You find a secret door and enter the hidden chamber in the east side
+of Qin Shi Huang's mausoleum. There is a luxuriously decorated gate
+made from pure gold on the east side of the chamber. The gate is locked.
+You recognize that the inscriptions on the gate are in ancient
+Mesopotamian language, so its key must be some item related to
+Mesopotamia.
+
+You may go WEST to leave."
+    }
+  ],
+    "points": 2500,
+    "exits": [
+      {
+        "direction": "east",
+        "room_id": "king's treasure",
+        "keys": ["Enuma Elish"]
+      },
+      {
+        "direction": "west",
+        "room_id": "east chamber",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "king's treasure",
+    "descriptions": [{
+      "requires": [],
+      "text": "Through the golden gate, you enter a room filled with treasure.
+Inscriptions on walls indicate that this treasure belongs to
+Gilgamesh, the legendary king of Uruk, who is the main character
+of the oldest known epic in history.
+
+After taking as many precious items as you can, go WEST to leave."
+    }],
+    "points": 5000,
+    "exits": [
+      {
+        "direction": "west",
+        "room_id": "east hidden chamber",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "kara no kyoukai",
+    "descriptions": [{
+      "requires": [],
+      "text": "You walk into emptiness. At the very center of the emptiness seemingly
+as vast as the universe stands a beauty wearing a red lether jacket
+over a catalina blue kimono.
+
+\"Yo, welcome,\" she greets you, \"I'm Shiki, Ryougi Shiki.\"
+
+You introduce yourself and tell Shiki your purpose.
+
+\"I know nothing about virus,\" she says, deeply in thought for a while,
+\"but if you are curious about the way to kill immortal beings, I can
+teach you.\"
+
+\"To kill immortal beings? Isn't that a paradox?\"
+
+\"It isn't.\" Shiki smiles, \"everything that has a beginning must
+has an end, this is the inherent duality of the universe. But some
+beings, after years of deliberate training, can acquire the
+ability to hide their mortality from others, and therefore being
+considered as immortal.\"
+
+Shiki gazes directly into your eyes. You notice that the color of
+her pupils are changing from darkgrey to ice blue.
+
+\"I was born with the ability to see the death of all beings, through
+whatever disguise. Immortals in your eyes are as fragile as butterfly
+wings in mine. I can see your Lines of Death right now, and if I slide
+my finger through here...\"
+
+Shiki approaches you, pointing her right index finger towards your
+heart, as if it is a knife.
+
+\"Stay away from my master or I will cut your throat open.\" Altera
+unsheathes her sword.
+
+\"Come on, it's just a demonstration.\" Despite her words, Shiki
+steps back from you. She knows Altera was serious.
+
+\"Anyway, I can teach you my ability, but for exchange, bring me my
+favorite dessert.\"
+
+You should leave from SOUTH now to look for desserts."
+    },
+    {
+      "requires": ["strawberry ice cream"],
+      "text": "You walk into emptiness. At the very center of the emptiness seemingly
+as vast as the universe stands a beauty wearing a red lether jacket
+over a catalina blue kimono.
+
+\"Yo, welcome,\" she greets you, \"I'm Shiki, Ryougi Shiki.\"
+
+You introduce yourself and tell Shiki your purpose.
+
+\"I know nothing about virus,\" she says, deeply in thought for a while,
+\"but if you are curious about the way to kill immortal beings, I can
+teach you.\"
+
+\"To kill immortal beings? Isn't that a paradox?\"
+
+\"It isn't.\" Shiki smiles, \"everything that has a beginning must
+has an end, this is the inherent duality of the universe. But some
+beings, after years of deliberate training, can acquire the
+ability to hide their mortality from others, and therefore being
+considered as immortal.\"
+
+Shiki gazes directly into your eyes. You notice that the color of
+her pupils are changing from darkgrey to ice blue.
+
+\"I was born with the ability to see the death of all beings, through
+whatever disguise. Immortals in your eyes are as fragile as butterfly
+wings in mine. I can see your Lines of Death right now, and if I slide
+my finger through here...\"
+
+Shiki approaches you, pointing her right index finger towards your
+heart, as if it is a knife.
+
+\"Stay away from my master or I will cut your throat open.\" Altera
+unsheathes her sword.
+
+\"Come on, it's just a demonstration.\" Despite her words, Shiki
+steps back from you. She knows Altera was serious.
+
+\"Anyway, I can teach you my ability, but for exchange, bring me my
+favorite dessert.\"
+
+You show Shiki the strawberry ice cream you take with you.
+
+\"Perfect!\" she exclaims, \"now pay close attention and listen, I
+will tell you more about my ability.\"
+
+GO TALK TO SHIKI to learn more about her ability, or leave from SOUTH.
+"
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "3-ladder",
+        "keys": []
+      },
+      {
+        "direction": "talk to shiki",
+        "room_id": "talk to shiki",
+        "keys": ["strawberry ice cream"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "entrance to mooncell core",
+    "descriptions": [{
+      "requires": [],
+      "text": "You step into the entrance hall to the core of Mooncell. There is nothing
+in the hall excepts a gate with futuristic design. You need to collect
+all seven pieces of Regalia to be authorized to enter the core, you'd
+better spend more time on defeating your opponents than waiting here.
+
+Go NORTH to leave this area."
+    },
+    {
+      "requires": ["Regalia piece 1","Regalia piece 2","Regalia piece 3",
+        "Regalia piece 4","Regalia piece 5","Regalia piece 6","Regalia piece 7"],
+      "text": "You step into the entrance hall to the core of Mooncell. There is nothing
+in the hall excepts a gate with futuristic design. With all the Regalia
+pieces in hand, you feel that the time has come for you to enter the
+core of Mooncell and claim your awards as the winner of Holy Grail War.
+
+Go SOUTH to enter Mooncell core, or go NORTH to leave."
+    }
+  ],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "3-ladder",
+        "keys": []
+      },
+      {
+        "direction": "south",
+        "room_id": "mooncell core",
+        "keys": ["Regalia piece 1","Regalia piece 2","Regalia piece 3",
+          "Regalia piece 4","Regalia piece 5","Regalia piece 6","Regalia piece 7"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "shopping mall",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in a shopping mall. With the credit card of Ozymandias in hand,
+you feel that you can spend a whole week here.
+
+\"I think we should check out one of these three places.\" Altera says,
+pointing to food store, fashion store, and black market.
+
+You may now GO FOOD STORE, GO FASHION STORE, or GO BLACK MARKET."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "food store",
+        "room_id": "food store",
+        "keys": ["credit card"]
+      },
+      {
+        "direction": "fashion store",
+        "room_id": "fashion store",
+        "keys": ["credit card"]
+      },
+      {
+        "direction": "black market",
+        "room_id": "black market",
+        "keys": ["credit card"]
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-c5",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "food store",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in the food store. There are all kinds of food including meat,
+fruits, vegetables, snacks, and desserts.
+
+Type RETURN when you're done here."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "shopping mall",
+        "keys": ["credit card"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "fashion store",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in the fashion store. There are all kinds of apparels and
+accessories.
+
+Type RETURN when you're done here."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "shopping mall",
+        "keys": ["credit card"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "black market",
+    "descriptions": [{
+      "requires": [],
+      "text": "You are in the black market. You have no idea why a black market is
+in a shopping mall, but you are in a black market anyway.
+
+All kinds of illegal goods are sold here, but you care only about
+computer viruses so you go directly to a store named Hacker
+Necessities.
+
+Type RETURN when you're done here."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "shopping mall",
+        "keys": ["credit card"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "archer domain",
+    "descriptions": [{
+      "requires": [],
+      "text": "You enter the domain of Archer. This is a modern city, everything is
+electrified, on a plaza in the city center Archer and his master
+stand, both staring at you with hostility.
+
+\"Good job breaking through the firewall,\" Archer speaks coldly,
+\"but you stand no chance of defeating me in my domain, because I
+am Nikola Tesla, the controller of electricity. Now die, invaders,
+the power of electric energy shall burn you down to ashes!\"
+
+All lights in the city become dim for a while, and a blinding strike
+of lightning was shot towards you.
+
+Altera does all what she can to fend off the lighting. \"He's right,\"
+she says, \"our strength cannot match his in this domain. Seek for
+knowledge, my master! The only way to defeat an engineer is to exploit
+knowledge more advance than those he commands.
+
+You may retreat to EASTward to area 1-D3, or SOUTHward to area 1-C4."
+    },
+    {
+      "requires": ["knowledge.pdf"],
+      "text": "You enter the domain of Archer. This is a modern city, everything is
+electrified, on a plaza in the city center Archer and his master
+stand, both staring at you with hostility.
+
+\"Good job breaking through the firewall,\" Archer speaks coldly,
+\"but you stand no chance of defeating me in my domain, because I
+am Nikola Tesla, the controller of electricity. Now die, invaders,
+the power of electric energy shall burn you down to ashes!\"
+
+All lights in the city become dim for a while, and a blinding strike
+of lightning was shot towards you.
+
+You recall something from the knowledge.pdf file you downloaded from
+Cornell library website, quickly build yourself and Altera a Faraday
+cage. The lightning deals no damage on you.
+
+\"Hmm, seems that you have taken introductory physics courses.\" Tesla
+says, \"but what about this?\"
+
+He stops attacking you with lighting and starts flooding you with
+electrical enginnering jargons. You throw back more jargons from
+knowledge.pdf. You don't fully understand all of them, but the
+point is to intimidate him with the collective scientific and
+engineering knowledge gained by humans after his death in 1943.
+
+When Tesla focuses all his attention on the debate with you, Altera
+sneaks up behind him and directs a deadly blow to his back.
+
+Now he's lying on the ground, breathing only faintly.
+
+You should GO TALK TO ARCHER now. (Go EAST or SOUTH if you have already
+done so)
+"
+    }
+  ],
+    "points": 3500,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "area 1-c4",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-d3",
+        "keys": []
+      },
+      {
+        "direction": "talk to archer",
+        "room_id": "talk to archer",
+        "keys": ["knowledge.pdf"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "talk to archer",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"I can't believe it,\" Tesla says, \"but I figure I'd have to accept
+this. Electrical engineering has been greatly developed in these years,
+hasn't it? My successors have been doing a great job.\"
+
+\"It's all thanks to the contributions you made.\"
+
+\"I'm happy to take that compliment,\" he smiles, \"but in the end,
+collective intelligence turns out to matter more.\"
+
+Halts for a while, he says, \"now, take my Regalia, and some of my
+weapons as well. You may find them helpful in combats with other
+servants.\"
+
+Type RETURN to end the conversation."
+    }],
+    "points": 3500,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "archer domain",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "talk to nero",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"May I know your name, adventurer?\" Nero asks you.
+
+You briefly introduce yourself.
+
+\"Thank you so much for finding my microphone and bring it back
+to me.\" Nero says, \"as an emperor, you know, I emphasize greatly
+on cultural events, that's why I hold personal conserts twice a
+month and demand all Roman citizens to attend.\"
+
+Well, although Altera said this Nero Claudius is not the tyrant from
+history you know, she definately possesses one characteristic of
+a tyrant: forcing her subjects to do things they are not willing to,
+and totally unconscious of that.
+
+\"Take this DSLR camera, and take this virus as well. I hope they
+can help you in your quest for Regalia.\" Nero says, \"and I have a
+third reward for you.\"
+
+\"A third reward?\"
+
+\"Yes. You are bestowed the privilege to sit in the first row to
+listen to my concert!\"
+
+\"Thank you, your majesty.\" you happily take two good seats in
+the first row for you and Altera.
+
+\"Now, my beloved Romen citizens, the concert begins!\"
+
+After halting for a few second, Nero begins to sing.
+
+When the first acoustic pulse reaches your ear, you ┴RV═ZT█RŇ T▄
+KÍRF┌RËG╔PßrvÝztűr§ tŘk÷rf˙rˇgÚp╡RV╓ZTδRè TÜKÖRFΘRαGÉPárvízt√rï
+tükörfúrógép
+
+\"Are you alright?\" Altera turns to you.
+
+\"Ýztűr§ tŘk÷rf˙rˇgÚp╡RV╓ZTδRè TÜKÖRFΘR\" you replies.
+
+\"What?\"
+
+\"k÷rf˙ØÙ‚ÙˆÙ‚rØ¹Ø§Ù!\"
+
+Your brain is not working. It stack overflows because it cannot
+process all the despair motion you are feeling right now. \"Am I
+listening to human voice?\" You ask yourself, \"or maybe I am
+listening to the screaming of some evil creatures that devour
+sanity?\"
+
+Your face turns pale. You know that you are going to pass out
+in a few seconds, and not waking up again, ever.
+
+FLY, you fools! Fly for your life.
+"
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "fly",
+        "room_id": "colosseum",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "lancer domain",
+    "descriptions": [{
+      "requires": [],
+      "text": "You walk into the Land of Shadows. Ghosts and evil spirits are roaming
+around. No trace of any living creatures can be sensed.
+
+\"You are brave, but your life shall end today.\" appearing from the
+balcony of her castle, Scathach, the warrior queen of the Land of
+Shadows says to you, \"my lance will pierce through your heart.\"
+
+\"Not before my sword cut into your guts.\" replies Altera.
+
+The next moment they have began fighting each other with astonishing
+power, speed, and skills. In Ulster mythology Scathach is the mentor
+of many great heros. She is said to reach the zenith of martial arts
+after years of training, and her lance, Gae Bolg Alternative, is
+rumored to possess the power to reverse causality and kill enemies
+before it hits their bodies.
+
+Despite Scathach's great skills, Altera is not at disadvantage. She
+is not as agile as Scathach, but her strikes are much more powerful.
+You find that the length and shape of her sword is not fixed. It can
+sometimes extends and even curves to attack the opponent from different
+angles, just like a scourge.
+
+Altera finally finds a weak point of her opponent. \"You're too
+careless!\" she shouts, and stabs her sword into the body of Scathach.
+
+\"Ah, seems that I forgot to tell you one thing.\" Scathach says
+in normal tone, as if her wound is nothing more than a tiny sting,
+\"after years of traning, I have obtained immortality. There is no
+way you can kill me.\"
+
+Speechless from shock, Altera retreats.
+
+\"We'd better go now,\" she says.
+
+You may go SOUTH to area 1-G6 or go WEST to area 1-F5."
+    },
+    {
+      "requires": ["Chokushi no Magan","sharp knife"],
+      "text": "You walk into the Land of Shadows. Ghosts and evil spirits are roaming
+around. No trace of any living creatures can be sensed.
+
+\"You are brave, but your life shall end today.\" appearing from the
+balcony of her castle, Scathach, the warrior queen of the Land of
+Shadows says to you, \"my lance will pierce through your heart.\"
+
+\"Not before my sword cut into your guts.\" replies Altera.
+
+The next moment they have began fighting each other with astonishing
+power, speed, and skills. In Ulster mythology Scathach is the mentor
+of many great heros. She is said to reach the zenith of martial arts
+after years of training, and her lance, Gae Bolg Alternative, is
+rumored to possess the power to reverse causality and kill enemies
+before it hits their bodies.
+
+Despite Scathach's great skills, Altera is not at disadvantage. She
+is not as agile as Scathach, but her strikes are much more powerful.
+You find that the length and shape of her sword is not fixed. It can
+sometimes extends and even curves to attack the opponent from different
+angles, just like a scourge.
+
+Altera finally finds a weak point of her opponent. \"You're too
+careless!\" she shouts, and stabs her sword into the body of Scathach.
+
+\"Ah, seems that I forgot to tell you one thing.\" Scathach says
+in normal tone, as if her wound is nothing more than a tiny sting,
+\"after years of traning, I have obtained immortality. There is no
+way you can kill me.\"
+
+\"No, there is.\" maneuvered behind Scathach when she was focusing
+on the fight with Altera, you draws the sharp knife, turns on your
+Chokushi no Magan, and cut through the Lines of Deaths of Scathach.
+
+\"Thats impossible!\" utterly astonished, Scathach yells, falling to
+the ground.
+
+You should GO TALK TO LANCER now. (Go SOUTH or WEST if you have already
+done so)
+"
+    }
+  ],
+    "points": 3500,
+    "exits": [
+      {
+        "direction": "talk to lancer",
+        "room_id": "talk to lancer",
+        "keys": ["Chokushi no Magan","sharp knife"]
+      },
+      {
+        "direction": "south",
+        "room_id": "area 1-g6",
+        "keys": []
+      },
+      {
+        "direction": "west",
+        "room_id": "area 1-f5",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "talk to lancer",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"For centuries,\" Scathach says in faint voice, \"I have been seeking
+for warriors that are capable of killing me, because it feels so
+lonely to be the only person to acquire immortality from traning.
+But they all disappointed me. Now, tell me, what skill did you use?
+How could you see my mortality?\"
+
+You told her everything about Ryougi Shiki and Chokushi no Magan.
+
+\"Mystic eyes that can perceive death, interesting. I wish I could
+have a chance to fight against the girl named Shiki. But now is the
+time for me to admit my defeat and hand over my Regalia to you.\"
+
+Type RETURN to end the conversation."
+    }],
+    "points": 3500,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "lancer domain",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "caster domain",
+    "descriptions": [{
+      "requires": [],
+      "text": "You entered the domain of Caster. This is a workshop of alchemist.
+
+\"Welcome, intruders,\" holding a flask in his hand, Caster speaks
+to you, \"I am Paracelsus, an alchemist.\"
+
+You briefly introduced yourself as courtesy. Altera doesn't say a
+word while carefully observing the movements of Caster, putting her
+hand on the grip of her sword.
+
+\"Take it easy,\" Paracelsus says, \"I was defeated at the moment
+when you break through all three layers of firewalls and enter my
+domain. As Caster, I am totally incapable of hands-on combat, so I
+am not attempting to hurt you since it will only makes my defeat
+happen sooner.\"
+
+\"Wise choice.\" Altera says, with her hand still on the grip.
+
+\"You can take away my Regalia. But I have one demand.\"
+
+\"What is it?\" you ask.
+
+\"Leave me alive before I finish my research, and, close the door
+when exiting, thank you.\"
+
+\"No problem,\" you replies, \"We have no intend to harm you, Mr.
+Paracelsus, since you are willing to give up your Regalia piecefully.
+
+You may now take the Regalia piece, and exit from NORTH or EAST."
+    }
+  ],
+    "points": 7000,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-c6",
+        "keys": []
+      },
+      {
+        "direction": "east",
+        "room_id": "area 1-d7",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "berserker domain",
+    "descriptions": [{
+      "requires": [],
+      "text": "You enter the domain of Berserker and immediately feels a mountain of
+muscle is gazing at you. You recall the day when you was hit by the
+rock. When fighting with Altera, Berserker caused an earthquake by one
+heavy blow, giant rocks where easily shattered like pieces of porcelain.
+
+\"I won't let that happen again.\" reading the worried look from your
+face, Altera says. But apparently the enormous physical strength of
+Berserker concerns her as well.
+
+The two servants soon engaged in combat. You tried to stay far from them,
+but at the same time not too far so that you can support Altera with the
+magics you know.
+
+Because Berserker is deprived of sanity, part of his martial skills
+is lost as well. Once Altera fully analyzed his attacking pattern,
+she is able to evade all attacks and counter when chances permitted.
+Finally she finds a chance to pierce her sword into the unarmored
+chest of Berserker.
+
+\"It's our victory, now let's search for the Regalia piece.\" Altera
+turns to you and says.
+
+\"Watch your back!\" you shouted. Berserker is still alive! He stands
+up, pick up his weapon, which is a great rock sword, and sprints
+towards Altera.
+
+She barely dodged the attack from Berserker. \"We should leave now,\"
+she says, \"I am pretty sure I pierced through his heart. He must
+possess some kind of ability that allows him to revive after
+receiving fatal damage. I have heard of rumors of a great prophet
+who knows everything, maybe we should retreat for now and seek for
+information.\"
+
+You may retreat to the NORTH."
+    },
+    {
+      "requires": ["11-piece knife set"],
+      "text": "You enter the domain of Berserker and immediately feels a mountain of
+muscle is gazing at you. You recall the day when you was hit by the
+rock. When fighting with Altera, Berserker caused an earthquake by one
+heavy blow, giant rocks where easily shattered like pieces of porcelain.
+
+\"I won't let that happen again.\" reading the worried look from your
+face, Altera says. But apparently the enormous physical strength of
+Berserker concerns her as well.
+
+The two servants soon engaged in combat. You tried to stay far from them,
+but at the same time not too far so that you can support Altera with the
+magics you know.
+
+Because Berserker is deprived of sanity, part of his martial skills
+is lost as well. Once Altera fully analyzed his attacking pattern,
+she is able to evade all attacks and counter when chances permitted.
+Finally she finds a chance to pierce her sword into the unarmored
+chest of Berserker.
+
+Berserker revives and rises from the ground after a while. Altera
+hands over her sword to you, asks you to take good care of it, and
+draws one knife from the 11-piece knife set you purchased on Amazon.
+
+Her combat with Berserker was repeated 11 times, all ending with the
+defeat of Berserker. After the eleventh time Altera deals fatal
+damage to Berserker, he never rises again.
+
+You should GO SEARCH DOMAIN to look for the piece of Regalia. Go to the
+NORTH if you have already found it."
+    }
+  ],
+    "points": 3500,
+    "exits": [
+      {
+        "direction": "north",
+        "room_id": "area 1-e7",
+        "keys": []
+      },
+      {
+        "direction": "search domain",
+        "room_id": "search domain",
+        "keys": ["11-piece knife set"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "search domain",
+    "descriptions": [{
+      "requires": [],
+      "text": "You and Altera fully search the domain of Berserker. You find the Regalia
+piece under a rock.
+
+Type RETURN when you're done here."
+    }],
+    "points": 3500,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "berserker domain",
+        "keys": []
+      }],
+      "treasure": []
+    },
+    {
+      "id": "talk to ozymandias",
+      "descriptions": [{
+        "requires": [],
+        "text": "\"In order to show my gratitude to you for bringing my Sphnix back to
+me,\" the great Egyptian pharaoh says, \"I shall gift you a credit card.\"
+
+\"A credit card?\" you and Altera are both puzzled.
+
+\"Yes. You may use this credit card freely. All expense will be
+covered by my treasury.\"
+
+Type RETURN when you're done here."
+        }],
+        "points": 3500,
+        "exits": [
+          {
+            "direction": "return",
+            "room_id": "pyramid",
+            "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "assassin domain",
+    "descriptions": [{
+      "requires": [],
+      "text": "You enter the domain of Assassin but you can't see anything. This domain is
+in complete darkness. There is no natural or artificial light source
+whatsoever.
+
+\"Clever move.\" Altera says, \"Assassin is not good at hands-on
+combat, but he's an expert of hiding and moving in darkness, so by
+cutting off power supplies for all light souces, he's gaining a huge
+advantage.\"
+
+\"By cutting of power supplies, do you mean...\"
+
+\"Be patient, wait until your eyes are adapted to darkness. Now look
+around, what do you see?\"
+
+\"We are in... an auditorium?\"
+
+\"Yes, an auditorium. There are lights bulbs everywhere, but Assassin
+intentionally cuts off all the electrical supplies. We should leave
+this domain now, my master, because it's too dangerous. Assassin must
+be hiding somewhere, observing us, and looking for chance to attack
+you. I'm afraid I can't protect you well in such darkness.
+
+You agree with Altera. You may go EAST to leave this domain."
+    },
+    {
+      "requires": ["AC current"],
+      "text": "You enter the domain of Assassin but you can't see anything. This domain is
+in complete darkness. There is no natural or artificial light source
+whatsoever.
+
+\"Clever move.\" Altera says, \"Assassin is not good at hands-on
+combat, but he's an expert of hiding and moving in darkness, so by
+cutting off power supplies for all light souces, he's gaining a huge
+advantage.\"
+
+\"By cutting of power supplies, do you mean...\"
+
+\"Be patient, wait until your eyes are adapted to darkness. Now look
+around, what do you see?\"
+
+\"We are in... an auditorium?\"
+
+\"Yes, an auditorium. There are lights bulbs everywhere, but Assassin
+intentionally cuts off all the electrical supplies. We should use the
+AC current Mr. Tesla gave us to power these light bulbs.\"
+
+You take out the AC current (how did you manage to store it in your
+inventory was an enigma though), and all of a sudden, the auditorium
+was lightened up.
+
+\"There's no place for you to hide now, Assassin,\" Altera says.
+
+\"I've destroyed all the power plants supplying power to this area,
+how did you do that?\" knowing that his plan was beaten, Assassin
+steps out from behind the chairs.
+
+\"We bring our own power supply.\" you say.
+
+\"Well, I did not expect that. Before being defeated by your servant,
+may I know who you are, master of Saber?\"
+
+You briefly introduced yourself.
+
+\"Nice to meet you. I am Jing Ke, one of the most famous failed assassins
+in history.\" Assassin introduces himself self-mockingly.
+
+\"Oh, so you are the one who attempted to assassinate Qin Shi Huang,
+the first emperor in Chinese history.\"
+
+\"Attempted, and failed.\" Jing Ke says, \"he was way more agile than
+I have thought. His swordsmanship was excellent as well.\"
+
+\"Would you admit your defeat and relinquish your Regalia piece to us,\"
+Altera asks, \"you understand that as an Assassin, you stand no chance
+of defeating me in a fully lightened enviornment, don't you?\"
+
+\"I understand that, but I will fight till the end for dignity. Do you
+think a man who had once stepped into the royal palace of a hostile
+state to assassinate its ruler would be afraid of death?\"
+
+\"Then I shall respect your spirit and combat you with my full
+strength.\" Altera proceeds, unsheathing her blade, and directs three
+rapid blows towards Jing Ke, all aiming at vital organs.
+
+He manages to parry two.
+
+You should GO TALK TO ASSASSIN, who is now lying in his own blood
+(Go EAST to exit this domain if you have already done so)."
+    }
+  ],
+    "points": 3500,
+    "exits": [
+      {
+        "direction": "east",
+        "room_id": "area 2-d4",
+        "keys": []
+      },
+      {
+        "direction": "talk to assassin",
+        "room_id": "talk to assassin",
+        "keys": ["AC current"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "talk to assassin",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"Take it,\" Jing Ke hands over his Regalia piece to you, \"I won't need
+it anymore.\"
+
+He tries to suppress the pain coming from his wound and speak as
+clearly as possible, \"I would also like to tell you a secret about
+Qin Shi Huang...\"
+
+After a long pause, he continues, \"...his mausoleum is here, in
+SE.RA.PH, and I believe it's on this level. Inside the tomb you will
+find his terracotta army, which are not just sculptures, but soldiers
+that could be brought to life...\"
+
+After another pause, he says, \"take this key, this shall allow you to
+enter his tomb. Now, could you leave me alone for a while?\"
+
+With his final strength, he begins to sing the song he once sang when
+he left his homeland and his friends for the mission that was destined
+to fail:
+
+\"The wind blows, the river freezes...
+The hero fords, never to return...\"
+
+Type RETURN to end conversation."
+    }],
+    "points": 3500,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "assassin domain",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "rider domain",
+    "descriptions": [{
+      "requires": [],
+      "text": "You enter the domain of Rider. She was standing in the center of a Greek
+style temple.
+
+\"Welcome, the master of Saber.\" she greets you, looking at you
+directly into your eyes.
+
+You want to speak, but feel that your tongue is not under your control.
+Your fingers and toes are stiffening from the ends. When you try to
+move them, the pulses originate in your brain cannot reach them as
+if your nerves are detached from them, just like wires being
+disconnected from electrical apparatus.
+
+\"Close your eyes!\" a distant voice shouts at you. Who is that? You
+wonder as you lose the ability to think.
+
+Altera blocks your eyes with her hand and carries you to behind a
+column with the other arm.
+
+Consciousness is flowing back to your brain.
+
+\"I felt that I was going to be turned into stone.\" you tells Altera
+as soon as you can speak.
+
+\"You were being turned into stone.\" she says, \"Rider must be one of
+the Gorgons. We should retreat now and return only after finding a
+way to weaken her power of turning people into stone.\"
+
+Go SOUTH to leave this domain."
+    },
+    {
+      "requires": ["sunglasses"],
+      "text": "You enter the domain of Rider. She was standing in the center of a Greek
+style temple.
+
+\"Welcome, the master of Saber.\" she greets you, looking at you
+directly into your eyes.
+
+You want to speak, but feel that your tongue is not under your control.
+Your fingers and toes are stiffening from the ends. When you try to
+move them, the pulses originate in your brain cannot reach them as
+if your nerves are detached from them, just like wires being
+disconnected from electrical apparatus.
+
+Altera rushes towards you, takes out a pair of sunglasses from your
+inventory, puts it on for you, and carries you to behind a column.
+
+Consciousness is flowing back to your brain.
+
+\"I felt that I was going to be turned into stone.\" you tells Altera
+as soon as you can speak.
+
+\"You were being turned into stone.\" she says, \"Rider must be one of
+the Gorgons. Putting on sunglasses can weaken her power of turning people
+into stone, but we have only on pair. Although I can resist her power
+to some extent, it could still slow me down in combat. We should
+retreat for now and seek for more weapons.\"
+
+Go SOUTH to leave this domain."
+    },
+    {
+      "requires": ["sunglasses","spellbook","terracotta army"],
+      "text": "You enter the domain of Rider. She was standing in the center of a Greek
+style temple.
+
+\"Welcome, the master of Saber.\" she greets you, looking at you
+directly into your eyes.
+
+You want to speak, but feel that your tongue is not under your control.
+Your fingers and toes are stiffening from the ends. When you try to
+move them, the pulses originate in your brain cannot reach them as
+if your nerves are detached from them, just like wires being
+disconnected from electrical apparatus.
+
+Altera rushes towards you, takes out a pair of sunglasses from your
+inventory, puts it on for you, and carries you to behind a column.
+
+Consciousness is flowing back to your brain.
+
+\"I felt that I was going to be turned into stone.\" you tells Altera
+as soon as you can speak.
+
+\"You were being turned into stone.\" she says, \"Rider must be one of
+the Gorgons. Putting on sunglasses can weaken her power of turning people
+into stone, but we have only on pair. Fortunately, the power of
+Gorgons are limited to humans only. Rider can't turn what's already
+stone into stone.\"
+
+You understand what Altera is suggesting. You take out the spellbook
+you found in the mausoleum of Qin Shi Huang, summon the terracotta
+army, and command the army to attack Rider with the power of the
+spellbook.
+
+Seeing terracotta warriors flooding towards her and realizing her power
+does not work on them, Rider says with a bitter smile, \"a Gorgon
+defeated by stone warriors, how ironic.\"
+
+She holds up her dagger to defend herself, but the power of an individual
+cannot match a legion of well-trained soldiers.
+
+Captured by the terracotta warriors, Rider is brought to you.
+
+You should GO TALK TO RIDER now (or you can leave this domain from the
+SOUTH if you have done so).
+      "
+    }
+  ],
+    "points": 3500,
+    "exits": [
+      {
+        "direction": "south",
+        "room_id": "area 2-d3",
+        "keys": []
+      },
+      {
+        "direction": "talk to rider",
+        "room_id": "talk to rider",
+        "keys": ["sunglasses","spellbook","terracotta army"]
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "talk to rider",
+    "descriptions": [{
+      "requires": [],
+      "text": "Rider gives up her Regalia piece to you and tells you her name
+is Medusa. \"If I win the Holy Grail War, I would use the power of
+Mooncell to create a world where I and my sisters, Euryale and
+Stheno, can live as ordinary people. We will all be mortals. We will
+talk about trivia like what to have for dinner, what are some good
+books to read, or even, what is our favorite hair style.\"
+
+She smiles, \"sounds silly, right? But dreams are always dreams,
+dreadful creatures like us deserve nothing other than hatred.\"
+
+You try to think of some words to comfort her, but Medusa gestures
+you to leave her alone.
+
+Type RETURN to end the conversation.
+"
+    }],
+    "points": 3500,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "rider domain",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "talk to kinoko",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"What would you like to ask?\" Nasu Kinoko turns to you and says,
+\"I am not a prophet as they rumor, but I do know a lot about the
+servants in SE.RA.PH.\"
+
+You may (don't forget to put GO keyword):
+ - ASK ABOUT SABER
+ - ASK ABOUT ARCHER
+ - ASK ABOUT LANCER
+ - ASK ABOUT RIDER
+ - ASK ABOUT CASTER
+ - ASK ABOUT ASSASSIN
+ - ASK ABOUT BERSERKER
+Or you can type RETURN to end the conversation with Kinoko."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "type moon office",
+        "keys": []
+      },
+      {
+        "direction": "ask about saber",
+        "room_id": "ask about saber",
+        "keys": []
+      },
+      {
+        "direction": "ask about archer",
+        "room_id": "ask about archer",
+        "keys": []
+      },
+      {
+        "direction": "ask about lancer",
+        "room_id": "ask about lancer",
+        "keys": []
+      },
+      {
+        "direction": "ask about rider",
+        "room_id": "ask about rider",
+        "keys": []
+      },
+      {
+        "direction": "ask about caster",
+        "room_id": "ask about caster",
+        "keys": []
+      },
+      {
+        "direction": "ask about assassin",
+        "room_id": "ask about assassin",
+        "keys": []
+      },
+      {
+        "direction": "ask about berserker",
+        "room_id": "ask about berserker",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "ask about saber",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"Could you tell me more about Saber?\" you ask Kinoko.
+
+\"Saber is your own servant, you should figure out her who
+she really is yourself.\" Kinoko answers.
+
+Type RETURN to leave the conversation."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "talk to kinoko",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "ask about archer",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"Could you tell me more about Archer?\" you ask Kinoko.
+
+\"Archer is a famous inventor and engineer. He does not rely on
+physical strength or martial skills in combats, instead he relies
+on his knowledge. But the knowledge of an individual can never
+surpass the collective knowledge of mankind, so your task is to
+seek for knowledge.\" Kinoko answers.
+
+Type RETURN to leave the conversation."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "talk to kinoko",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "ask about lancer",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"Could you tell me more about Lancer?\" you ask Kinoko.
+
+\"Lancer is a legendary warrior queen possessing great martial
+skills. But her real strength is not her martial skills but her
+immortality. To defeat her, you may need something that can see
+through death.\" Kinoko answers.
+
+Type RETURN to leave the conversation."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "talk to kinoko",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "ask about rider",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"Could you tell me more about Rider?\" you ask Kinoko.
+
+\"I won't tell you who Rider truly is, but I have one hint:
+defeating Assassin before challenging Rider would make your life
+easier.\" Kinoko answers.
+
+Type RETURN to leave the conversation."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "talk to kinoko",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "ask about caster",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"Could you tell me more about Caster?\" you ask Kinoko.
+
+\"The specialty of Caster is territory creation. The firewall
+surrounding Caster's domain is almost unbreakable, so you need
+more viruses than you need for other domains. But once you
+manage to get in, he wouldn't be able to fight back.\" Kinoko
+answers.
+
+Type RETURN to leave the conversation."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "talk to kinoko",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "ask about assassin",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"Could you tell me more about Assassin?\" you ask Kinoko.
+
+\"Assassin is good at maneuvering in the dark, but once he is
+exposed under lights, Saber could defeat him easily. I would
+recommend defeating Archer before challenging Assassin.\" Kinoko
+answers.
+
+Type RETURN to leave the conversation."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "talk to kinoko",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "ask about berserker",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"Could you tell me more about Berserker?\" you ask Kinoko.
+
+\"Since Berserker lost his sanity and cannot introduce himself,
+I will introduce him to you. His name is Heracles, the great hero
+in Greek mythology. He has performed twelve immense tasks in his
+life, so when he becomes a heroic spirit, he gains a very powerful
+skill: he must be killed twelve times in order to be fully defeated,
+and each time he is killed by one weapon, he gains immunity from
+attacks from the same weapon. So you must collect twelve different
+weapons before challenging him.\" Kinoko answers.
+
+Type RETURN to leave the conversation."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "talk to kinoko",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "talk to shiki",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"So can you tell me more about your ability now?\" you ask Shiki, who
+just opened a cup of strawberry ice cream and begins eating.
+
+\"Sure,\" she replies, \"I've probably already told you that my
+ability is to see the death of all beings. Here, beings is an
+abstract type, not a concrete one. Any entity, as long as it
+implements start and end, is mortal and therefore can be killed.
+Appendicitis, for example, starts when the appendix inflames and
+ends when it is surgically removed, so the 'death' of appendicitis
+is visible for me and I can kill it by cutting through its Lines
+of Death.\"
+
+You nods to urge her to continue.
+
+\"The name of my skill is Chokushi no Magan, or Mystic Eyes of Death
+Perception. Now pay very close attention as I explain to you how to
+learn to use it...\"
+
+\"I hate to interrupt but...\" Altera says, \"can I have a cup of
+ice cream as well?\"
+
+Type RETURN when Altera finishes her ice cream and when you feel
+that you've mastered the skill of Chokushi no Magan."
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "kara no kyoukai",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "mooncell core",
+    "descriptions": [{
+      "requires": [],
+      "text": "Finally, you enter the core of Mooncell. There is nothing in this area
+except a cube floating in the air.
+
+\"Assemble all seven pieces of Regalia together, my master, and
+we shall be granted the permission to access the core of Mooncell.\"
+Altera says.
+
+You follow what she says. Once you have assembled Regalia pieces
+together, the cube begins to glow and rotates.
+
+    > MASTER VERIFIED
+
+You see a line printed out on the surface of the cube.
+
+    > SERVANT VERIFIED
+    > REGALIA INTEGRITY VERIFIED
+    > ...30%
+    > ...60%
+    > ...90%
+    > MOONCELL SYSTEM PERMISSIONS GRANTED
+
+\"Does that mean I can make a wish now?\" you ask.
+
+\"Yes. Take your time to consider.\"
+
+\"Have you decided on your wish?\"
+
+\"I did in two thousands years ago.\"
+
+When you are wondering what does that mean, Altera turns to the
+Mooncell core and says, \"use all the transmitting power, send out
+this signal to all directions.\"
+
+That's it? After going through all the brutal combats of the Holy
+Grail War, all Altera wants to do it to send a signal?
+
+Altera says, as if she knows what you are thinking, \"this is more
+than a signal. It will bring destruction to human civilization.\"
+
+\"You can't be serious, right?\"
+
+\"I'm sorry. But this is my responsibility, as a warrior of the
+UMBRAL STAR.\"
+
+Type NEXT to proceed or NORTH to leave the Mooncell core.
+
+(WARNING : because once you proceed with NEXT you will not be able
+to return to the current room before reaching the end of the story,
+the system checks if you have left any important item behind. If you
+find that you cannot proceed with NEXT, go back and pick up items
+you may have dropped.)"
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "next",
+        "room_id": "secret of altera 1",
+        "keys": ["Chokushi no Magan","sharp knife"]
+      },
+      {
+        "direction": "north",
+        "room_id": "entrance to mooncell core",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "secret of altera 1",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"What is the Umbral Star? What do you mean you are a warrior of it?
+Aren't you a historical heroine? What is your responsibility?
+What...\" you bombards Altera with questions. She has always been
+cautious to keep her identity as a secret, but you have never
+expected her to say something as shocking as \"destruction to human
+civilization.\"
+
+\"Since the signal is on the way and I have completed my task, I
+wouldn't mind answering all your questions.\" Altera says.
+
+\"First I will tell you something about Mooncell. You already knows
+Mooncell was built over 10,000 years ago, and the purpose of its
+construction is to observe and record all possible human histories.
+As far as I know, its was built by sociologists from a highly advanced
+extraterrestrial civilization.
+
+\"The goal of holding Holy Grail Wars in SE.RA.PH is to closely observe
+how individual humans behave when they are paired up with samples
+selected from history. For those sociologists, legends are also
+considered as a part of history since they also demonstrate features
+of human society despite the presence of supernatural power.
+
+\"They think rewarding the winner with Mooncell system permissions is
+a good idea because it's both attractive enough to participants, and
+won't interfere with human society in reality because everything takes
+place in SE.RA.PH.
+
+\"But they forget that Mooncell can influence reality as a transmitter.
+To send reports back to their laboratories, Mooncell is equipped with
+signal transmitters that could be controlled by whoever possesses the
+core system permissions.\"
+
+\"But it's just a signal. How can it do damage to human civilization?\"
+you ask Altera.
+
+\"Because, before Mooncell was built, in 14,000 years ago...\"
+
+Type NEXT to proceed.
+
+(WARNING : don't drop anything here)"
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "next",
+        "room_id": "secret of altera 2",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "secret of altera 2",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"In 14,000 years ago, before the Mooncell was built, another advanced
+civilization visited earth, with their own philosophy of exploiting
+civilizations. That civilization is the Umbral Star.
+
+\"The Umbral Star is a spaceship travelling in the galaxy, hopping
+from planet to planet. It devours the ordered information created by
+civilizations as its fuel. But it won't totally destroy those
+civilizations. It allows sparks of civilizations to survive, so
+that when it returns to the same planet thousands of years after,
+it could harvest the civilization again.\"
+
+\"Sounds like farming.\"
+
+\"Nice metaphor. If the Umbral Star is the farmer of civilizations,
+I am the watcher in farmland. 14,000 years ago, when the Umbral Star
+wiped out most of the ancient civilizations on earth and was ready
+to set sail for the next target, I was built, given the shape of a
+human, and left on earth to closely monitor human civilization and
+report to the Umbral Star regularly to inform it to what stage
+has human civilization developed, so that it can plan a schedule
+about when to return.
+
+\"For the first 12,000 years or so all thing went well, but around
+400 CE, I lost connection with the Umbral Star. Without further
+instructions from it, I began to act under my instinct, which,
+because I am a creation of the civilization devourer, is the
+desire to bring destruction to civilizations.
+
+Type NEXT to proceed.
+
+(WARNING : don't drop anything here)"
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "next",
+        "room_id": "secret of altera 3",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "secret of altera 3",
+    "descriptions": [{
+      "requires": [],
+      "text": "400 CE, destroying civilization, familiarity with Rome she once showed,
+and her experience as a conqueror she once told you, these all
+remind you of one name.
+
+\"Attila...\" you mutter a name.
+
+\"That is what my incarnation was called. But please continue to
+call me Altera.\" she quickly replies, and then says almost
+inaudibly, \"Attila... doesn't sound charming and sweet.\"
+
+Why would an alien civilization destroyer care about the sound
+of her name?
+
+\"But why did you stop? In history, Attila the Hun died before
+setting out to conquer the city of Rome. Don't you have full
+control over the lifespan of your incarnation?\"
+
+\"What do you think was the reason?\" she asks back.
+
+  1. You restored connnection with the Umbral Star and it tells
+     you to stop.
+  2. Some limitations of your design restrict the maximum time
+     you can stay in the form of incarnation.
+  3. You, for the first time, had the desire to not destroy.
+
+Type 1, 2, or 3 to proceed.
+
+(WARNING : don't drop anything here)"
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "1",
+        "room_id": "bad end 1",
+        "keys": []
+      },
+      {
+        "direction": "2",
+        "room_id": "bad end 1",
+        "keys": []
+      },
+      {
+        "direction": "3",
+        "room_id": "secret of altera 4",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "bad end 1",
+    "descriptions": [{
+      "requires": [],
+      "text": "Altera shakes her head and refuses to talk to you any longer.
+
+Now type RETURN to try again, otherwise the destruction of
+human civilization will be all your fault.
+
+(WARNING : don't drop anything here)"
+    }],
+    "points": -300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "secret of altera 3",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "secret of altera 4",
+    "descriptions": [{
+      "requires": [],
+      "text": "Altera is visibly surprised by your reply. \"Didn't I tell you the
+desire to destory lies deep within my instinct? It's impossible
+for me to have other desire than that, because I was designed
+that way and built that way.\"
+
+\"But I see more than that in you, in these days when we fight
+side by side.\" you say, \"when we were in the forest, you was
+careful not to step on any wild flowers, wasn't you?\"
+
+\"That was just...\"
+
+\"When we were in the Pantheon,\" you interrupt her, \"I told
+you I was impressed by creativity of the Romans and you showed
+a sign of regret, wasn't that because of you were sorry for
+destroying some of the creations of the Roman Empire?\"
+
+\"No, that was...\"
+
+\"When we were outside the domain of Rider, we saw a remain of
+ancient temple, right?\" you stop her from explaining, \"you
+said 'how regrettable, it's been destroyed,' didn't you?\"
+
+\"I was just talking to myself...\"
+
+\"That means that's what you truly think, right? You was truly
+feeling regret for the destruction of outstanding creations of
+human civilization.\"
+
+\"No, I wasn't.\" Altera denies totally unpersuasively.
+
+\"Admit it, Altera,\" you pronounce her name softly, \"in those
+years when the connection with the Umbral Star was lost and when
+you act under your own will, you acquired human emotions, you
+learned to appreciate the beauty of the creations of our race.
+
+You spied on Rome before launching attack on it, didn't you? You
+was unpleasant when I asked if you have been there on the streets
+of Rome, because you don't want to admit that you have been there,
+and was impressed by its beauty.\"
+
+Altera looks to the ground, avoiding eye contact with you, and
+falls into complete silent.
+
+Type NEXT to proceed.
+
+(WARNING : don't drop anything here)"
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "next",
+        "room_id": "secret of altera 5",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "secret of altera 5",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"You are right.\" Altera mutters after a lasting silent, \"I had
+always been distantly observing human civilization before the
+connection with Umbral Star was lost because I was instructed
+to do so. But when I could no longer receive instructions and
+act under my own will, the desire to destroy drove me to become
+a part of your civilization, becasue although I was born as a
+great warrior, I still need an army to effective bring destruction
+to the world.
+
+\"I was on a vast grassland in central Asia when I found that I
+could no longer reach the Umbral Star. I met a Hunnic tribe,
+demonstated my power as a warrior, and was recognized by them
+as their leader. I trained them into fearsome soldiers, brought
+all other tribes under my domination, and began my quest for
+conquering the Eastern and Western Roman Empire, driven by the
+desire of devastating civilizations.
+
+\"But in this process I was assimilated by the Hunnic tribes,
+I was assimilated by YOU. I have met intellectual geniuses
+just like Mr. Tesla, who could turn the wildest imaginations
+into reality.
+
+\"I have met warriors like Scathach, who acquires immortal
+powers as a mortal through years of self-decipline and training.
+
+\"I have met fearless fighters like Jing Ke, who would draw
+their blades and face their enemies for their faith, no matter
+how hopeless it is to return alive.
+
+\"I was moved by them and their works. At that moment when I
+walked into the walls of Rome and witnessed all those superb
+builidngs in close distant, from the perspective of a human
+instead of the perspective of a Umbral Star monitor, all these
+emotions come together and deeply shocked me. At that moment
+I decided I should retire from the life of campaigns, sieges,
+and bloodshed, I should give up the responsibility given to
+me by the Umbral Star, and live from now on as an appreciator
+for your civilization.
+
+\"And such life lasted for over fifteen centuries. I travelled
+all around the world and witnessed all the new wonders you
+have built and all the breakthroughs you have made. This time
+was like a dream. I have never been so happy before. I have
+never imagined that as an alien, I could feel all that you
+feel.
+
+\"But perhaps Medusa was correct. Dreams are always dreams.
+I don't belong to human civilization, just like Gorgons
+don't belong to humans. I do not deserve such happiness.\"
+
+Type NEXT to proceed.
+
+(WARNING : don't drop anything here)"
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "next",
+        "room_id": "secret of altera 6",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "secret of altera 6",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"What do you mean? Of course you deserve that! You have been
+living as a human for so long. You have human emotions.
+You know how to appreciate the beauty of human creations.
+You have become one of us, of course you deserve all the
+happniess that we deserve.\" you say to Altera.
+
+\"No.\" she says, \"a few years ago a week transmission from
+the Umbral Star reached me. It told me that it involved in some
+accident that caused its communication capability to be damaged.
+But recently, it managed to restore some of that capability.
+It instructed me to send out a report with the most powerful
+transmitter I can access.\"
+
+\"And that transmitter is Mooncell.\"
+
+\"Yes, it's Mooncell.\" she says in a almost tearful voice,
+\"I am so sorry. This is not my intend but I am programmed this
+way. There's no way I can resist direct instructions from the
+Umbral Star.\"
+
+\"What did you tell the Umbral Star in the report?\"
+
+\"Human civilization is ready for harvest.\" she says, \"that's
+all I put in the report. Once the Umbral Star receives it, human
+civilization is doomed.\"
+
+    1. If that's the case, we will have to accept the apocalypse.
+    2. What if human civilization is not yet ready for harvest?
+    3. We still have time before the Umbral Star returns, we can
+       develope our technology and defend our civilization from it.
+
+Type 1, 2, or 3 to proceed.
+
+(WARNING : don't drop anything here)"
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "1",
+        "room_id": "bad end 2",
+        "keys": []
+      },
+      {
+        "direction": "2",
+        "room_id": "secret of altera 7",
+        "keys": []
+      },
+      {
+        "direction": "3",
+        "room_id": "bad end 3",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "bad end 2",
+    "descriptions": [{
+      "requires": [],
+      "text": "Don't give up hope! You can still save human civilization.
+
+RETURN and make another choice.
+
+(WARNING : don't drop anything here)"
+    }],
+    "points": -300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "secret of altera 6",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "bad end 3",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"Don't be overly optimistic,\" Altera says, \"the Umbral Star had acquired
+all the technologies needed for interstellar travel more than
+14,000 years ago, do you think human technology can develope to
+such level before it returns?\"
+
+RETURN and try to save the world in other way.
+
+(WARNING : don't drop anything here)"
+    }],
+    "points": -300,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "secret of altera 6",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "secret of altera 7",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"What if human civilization is not yet ready for harvest?\" you say.
+
+\"What do you mean?\" Altera says with a confused look.
+
+\"I can still make a wish to Mooncell, right? What if I send out
+another report saying that human civilization has been totally
+destroyed by some natural disaster, say, an asteroid collision?
+The Umbral Star won't waste time and energy to return to earth,
+if there is nothing there for it to harvest, right?\"
+
+\"It won't deceive it for long. Sooner or later, it will find out
+that I am still alive, and therefore discovering that the disaster
+you make up isn't true.\"
+
+\"What if you are not alive?\" looking into Altera's eyes, you
+say.
+
+\"Do you mean that you want to kill me?\" she replies, completely
+unintimidated.
+
+You draw out the sharp knife and turn on Chokushi no Magan, the
+mystic eyes that can kill all living things, and say:
+
+    1. Yes, I shall kill you for the sake of human civilization.
+    2. No, I can't do this.
+
+(Type 1 or 2 to proceed)"
+    }],
+    "points": 300,
+    "exits": [
+      {
+        "direction": "1",
+        "room_id": "bad end 4",
+        "keys": []
+      },
+      {
+        "direction": "2",
+        "room_id": "good end",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "bad end 4",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"I shall kill you for the sake of human civilization.\" drawing out
+the sharp knife and turning on Chokushi no Magan, you say, with
+a huge determination.
+
+You make sure you have clearly perceive the Lines of Death of
+Altera, and launch an attack.
+
+But the blade of Altera pierce through your body before your
+knife can ever reach her Lines of Death.
+
+\"Sorry, my master, but I am programmed to protect myself.\"
+Pulling out her sword from your bleeding wound, Altera says,
+\"It has been a great honor to fight alongside you. Farewell.\"
+
+You see a teardrop rolling down her face and lose consciousness.
+
+RETURN and try to save the world in other way.
+
+(WARNING : don't drop anything here)"
+    }],
+    "points": -3000,
+    "exits": [
+      {
+        "direction": "return",
+        "room_id": "secret of altera 7",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "good end",
+    "descriptions": [{
+      "requires": [],
+      "text": "\"I can't do this,\" you say, \"how can I harm you? We have been the
+closest companions for each other in these days. I want to save
+you as much as I want to save the world.\"
+
+\"But why are you drawing out the knife?\" Altera asks.
+
+\"Do you remember what Shiki said? 'Being' is an abstract concept.
+Anything that has a beginning and an end is mortal, and therefore
+can be killed using Chokushi no Magan.
+
+\"Your duty as a observer for the Umbral Star, Altera, begins when
+you were made and will end when it returns to devour human
+civilization.
+
+\"So the Altera as an alien is mortal and can be killed. But over
+the years you act under your own will, you gained another layer
+of existence as a human. The Altera as a human is independent from
+the Umbral Star and therefore is not controlled by it, and can not
+be perceived by it remotely.
+
+\"I will not take your life from you. I only bring death to your
+identity as an observer for Umbral Star. Your human part will remain,
+and you will truly become one of us.\"
+
+You walk towards Altera. You are so close to her that the tip of
+your knife can easily reach her body.
+
+\"Do you trust me?\"
+
+With no hesitation, Altera replies, \"yes, I do.\"
+
+You reach out your hand. The sharp knife touches Altera's body
+but is not leaving any wound since it is not slicing through a
+physical existence. You turn the knife very slowly and carefully
+as if you are operating a surgery. After a minute or two that
+feels like centuries, the last remaining piece of alien Altera
+is killed, and stands in front of you now is a pure human being,
+from inside to outside.
+
+Bursting into cheerful tears, Altera smiles at you. It is the
+warmest smile you have ever seen.
+
+Now, GO MAKE A WISH to send the message to mislead the Umbral Star
+and save human civilization."
+    }],
+    "points": 200000,
+    "exits": [
+      {
+        "direction": "make a wish",
+        "room_id": "mooncell core",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "point adjustment",
+    "descriptions": [{
+      "requires": [],
+      "text": "This room is for adjusting winning point only. 200,000 is the minimal
+point needed to win the game."
+    }],
+    "points": -72800,
+    "exits": [],
+    "treasure": []
+  },
+  {
+    "id": "puzzle 0",
+    "descriptions": [{
+      "requires": [],
+      "text": "Welcome, adventurer! The tomb of Qin Shi Huang is heavily guarded by
+all kinds of defensive measures, so in order to enter the main
+chamber, you need to solve a series of puzzles.
+
+Type NEXT to proceed."
+    }],
+    "points": 0,
+    "exits": [
+      {
+        "direction": "next",
+        "room_id": "puzzle 1",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "puzzle 1",
+    "descriptions": [{
+      "requires": [],
+      "text": "Puzzle 1: solve the following sudoku
+
+          1       |   6       3   |       5
+      9           |       1       |           4
+              8   |               |   2
+      -----------------------------------------
+      4           |               |           7
+          7       |       6       |       3
+      8           |               |           9
+      -----------------------------------------
+              6   |               |   4
+      7           |       5       |           2
+          9       |   8       7   |       1
+
+The password is the forth row."
+    }],
+    "points": 0,
+    "exits": [
+      {
+        "direction": "463985127",
+        "room_id": "puzzle 2",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "puzzle 2",
+    "descriptions": [{
+      "requires": [],
+      "text": "Well done!
+
+Puzzle 2: what is the name of a programming language named after the
+first computer programmer?
+
+Hint for TYPE-MOON fans: her work is related to a Caster in FGO
+known for his steam-punk style armor."
+    }],
+    "points": 0,
+    "exits": [
+      {
+        "direction": "ada",
+        "room_id": "puzzle 3",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "puzzle 3",
+    "descriptions": [{
+      "requires": [],
+      "text": "Great job!
+
+This is the last puzzle: enter the name of a central character in an
+famous ancient India epic who was killed by his brother.
+
+For TYPE-MOON fans who think this puzzle is too easy: enter the name
+of his noble phantasm."
+    }],
+    "points": 0,
+    "exits": [
+      {
+        "direction": "karna",
+        "room_id": "main chamber",
+        "keys": []
+      },
+      {
+        "direction": "vasavi shakti",
+        "room_id": "main chamber",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  },
+  {
+    "id": "avalon",
+    "descriptions": [{
+      "requires": [],
+      "text": "This is a hidden room for testing purpose. Enter WIN here goes to
+the good end directly."
+    }],
+    "points": 0,
+    "exits": [
+      {
+        "direction": "win",
+        "room_id": "good end",
+        "keys": []
+      }
+    ],
+    "treasure": []
+  }
+  ],
+  "start_room": "introduction",
+  "items": [
+  {
+    "id": "Regalia piece 1",
+    "description": "one of the seven pieces of Regalia. Whoever collects all the seven pieces is permitted to enter the core of Mooncell and uses its enormous computational power at will",
+    "points": 0
+  },
+  {
+    "id": "Regalia piece 2",
+    "description": "one of the seven pieces of Regalia.",
+    "points": 0
+  },
+  {
+    "id": "Regalia piece 3",
+    "description": "one of the seven pieces of Regalia.",
+    "points": 0
+  },
+  {
+    "id": "Regalia piece 4",
+    "description": "one of the seven pieces of Regalia.",
+    "points": 0
+  },
+  {
+    "id": "Regalia piece 5",
+    "description": "one of the seven pieces of Regalia.",
+    "points": 0
+  },
+  {
+    "id": "Regalia piece 6",
+    "description": "one of the seven pieces of Regalia.",
+    "points": 0
+  },
+  {
+    "id": "Regalia piece 7",
+    "description": "one of the seven pieces of Regalia.",
+    "points": 0
+  },
+  {
+    "id": "golden key",
+    "description": "a golden key",
+    "points": 0
+  },
+  {
+    "id": "silver key",
+    "description": "a silver key",
+    "points": 0
+  },
+  {
+    "id": "bronze key",
+    "description": "a bronze key",
+    "points": 0
+  },
+  {
+    "id": "stone key",
+    "description": "a stone key",
+    "points": 0
+  },
+  {
+    "id": "V-AR",
+    "description": "the virus that can break through firewall surrounding archer's domain",
+    "points": 0
+  },
+  {
+    "id": "V-LA",
+    "description": "the virus that can break through firewall surrounding lancer's domain",
+    "points": 0
+  },
+  {
+    "id": "V-RI",
+    "description": "the virus that can break through firewall surrounding rider's domain",
+    "points": 0
+  },
+  {
+    "id": "V-AS",
+    "description": "the virus that can break through firewall surrounding assassin's domain",
+    "points": 0
+  },
+  {
+    "id": "V-BE",
+    "description": "the virus that can break through firewall surrounding berserker's domain",
+    "points": 0
+  },
+  {
+    "id": "V-CA-I",
+    "description": "one of the three viruses that can break through firewall surrounding caster's domain",
+    "points": 0
+  },
+  {
+    "id": "V-CA-II",
+    "description": "one of the three viruses that can break through firewall surrounding caster's domain",
+    "points": 0
+  },
+  {
+    "id": "V-CA-III",
+    "description": "one of the three viruses that can break through firewall surrounding caster's domain",
+    "points": 0
+  },
+  {
+    "id": "knowledge.pdf",
+    "description": "power",
+    "points": 0
+  },
+  {
+    "id": "Chokushi no Magan",
+    "description": "Chokushi no Magan means Mystic Eyes of Death Perception. It is \"a circuit that opens up in the brain and eyes to allow the user to 'perceive death,' the conceptual 'Death of an Existence,' as visual signals in the form of Lines of Death and Points of Death.\" (TYPE-MOON Wiki)",
+    "points": 0
+  },
+  {
+    "id": "sharp knife",
+    "description": "an extremely sharp knife rumored to possess the ability to cut through invisible existence",
+    "points": 0
+  },
+  {
+    "id": "spellbook",
+    "description": "a book with great magical power. It's possessor could command the terracotta army",
+    "points": 0
+  },
+  {
+    "id": "terracotta army",
+    "description": "terracotta sculptures buried with Qin Shi Huang. It's rumored that they could be brought to life...",
+    "points": 0
+  },
+  {
+    "id": "sunglasses",
+    "description": "a pair of sunglasses",
+    "points": 0
+  },
+  {
+    "id": "AC current",
+    "description": "the secret of modernization",
+    "points": 0
+  },
+  {
+    "id": "11-piece knife set",
+    "description": "a set of kitchen knifes that cost $89.99",
+    "points": 0
+  },
+  {
+    "id": "white mushroom",
+    "description": "Agaricus bisporus",
+    "points": 0
+  },
+  {
+    "id": "enoki mushroom",
+    "description": "Flammulina velutipes",
+    "points": 0
+  },
+  {
+    "id": "oyster mushroom",
+    "description": "Pleurotus ostreatus",
+    "points": 0
+  },
+  {
+    "id": "microphone",
+    "description": "a microphone designed for bringing nightmare to Roman citizens",
+    "points": 0
+  },
+  {
+    "id": "Sphnix",
+    "description": "mythical creature with human head and lion body which actually looks like a large cat",
+    "points": 0
+  },
+  {
+    "id": "strawberry ice cream",
+    "description": "600 calories per cup",
+    "points": 0
+  },
+  {
+    "id": "credit card",
+    "description": "the elegant replacement of cash",
+    "points": 0
+  },
+  {
+    "id": "Excalibur",
+    "description": "the sword of King Arthur",
+    "points": 0
+  },
+  {
+    "id": "Enuma Elish",
+    "description": "a sword-shaped key that opens the gate to the treasury of Gilgamesh, the ruler of Uruk and the main character of the oldest known epic",
+    "points": 0
+  },
+  {
+    "id": "VPN",
+    "description": "virtual private network, the tool for circumventing the Great Firewall, a cyberspace equivalent of the Great Wall, except that the GFW blocks all the good stuffs outside while the Great Wall blocks barbarians",
+    "points": 0
+  },
+  {
+    "id": "milk",
+    "description": "fresh milk",
+    "points": 0
+  },
+  {
+    "id": "DSLR camera",
+    "description": "a digital single-lens reflex camera",
+    "points": 0
+  },
+  {
+    "id": "apple tree",
+    "description": "an apple tree",
+    "points": 0
+  },
+  {
+    "id": "beech tree",
+    "description": "a beech tree",
+    "points": 0
+  },
+  {
+    "id": "cherry tree",
+    "description": "a cherry tree",
+    "points": 0
+  },
+  {
+    "id": "chesnut tree",
+    "description": "a chesnut tree",
+    "points": 0
+  },
+  {
+    "id": "maple tree",
+    "description": "a maple tree",
+    "points": 0
+  },
+  {
+    "id": "yew tree",
+    "description": "a yew tree that can be used to make yew bow",
+    "points": 0
+  },
+  {
+    "id": "binary search tree",
+    "description": "a binary search tree",
+    "points": 0
+  },
+  {
+    "id": "red-black tree",
+    "description": "a red-black tree",
+    "points": 0
+  },
+  {
+    "id": "AVL tree",
+    "description": "an AVL tree",
+    "points": 0
+  },
+  {
+    "id": "wild horse",
+    "description": "a wild horse",
+    "points": 0
+  },
+  {
+    "id": "vanilla ice cream",
+    "description": "600 calories per cup",
+    "points": 0
+  },
+  {
+    "id": "chocolate ice cream",
+    "description": "600 calories per cup",
+    "points": 0
+  },
+  {
+    "id": "matcha ice cream",
+    "description": "600 calories per cup",
+    "points": 0
+  },
+  {
+    "id": "tomato",
+    "description": "a tomato, not a tamamo",
+    "points": 0
+  },
+  {
+    "id": "potato",
+    "description": "a potato",
+    "points": 0
+  },
+  {
+    "id": "salted butter",
+    "description": "butter that is salted",
+    "points": 0
+  },
+  {
+    "id": "tuna",
+    "description": "a tuna steak",
+    "points": 0
+  },
+  {
+    "id": "salmon",
+    "description": "a salmon steak",
+    "points": 0
+  },
+  {
+    "id": "bottled water",
+    "description": "a bottled natural spring water",
+    "points": 0
+  },
+  {
+    "id": "T shirt",
+    "description": "a white T shirt",
+    "points": 0
+  },
+  {
+    "id": "skirt",
+    "description": "a light blue skirt",
+    "points": 0
+  },
+  {
+    "id": "jeans",
+    "description": "a pair of Lewis jeans",
+    "points": 0
+  },
+  {
+    "id": "socks",
+    "description": "a pair of black socks",
+    "points": 0
+  },
+  {
+    "id": "belt",
+    "description": "a lether belt",
+    "points": 0
+  },
+  {
+    "id": "A0 full solution",
+    "description": "the full solution to CS3110 assignment 0",
+    "points": 0
+  },
+  {
+    "id": "A1 full solution",
+    "description": "the full solution to CS3110 assignment 1",
+    "points": 0
+  },
+  {
+    "id": "A2 full solution",
+    "description": "the full solution to CS3110 assignment 2",
+    "points": 0
+  },
+  {
+    "id": "bitcoin",
+    "description": "a bitcoin, but sadly cannot be used to purchase in SE.RA.PH",
+    "points": 0
+  },
+  {
+    "id": "garlic press",
+    "description": "a $16.99 garlic press",
+    "points": 0
+  },
+  {
+    "id": "ramen bowl",
+    "description": "a $5.99 ramen bowl",
+    "points": 0
+  },
+  {
+    "id": "food container",
+    "description": "a $24.99 food container (10 pack)",
+    "points": 0
+  },
+  {
+    "id": "pillow cover",
+    "description": "a $12.99 pillow cover",
+    "points": 0
+  },
+  {
+    "id": "omelet pan",
+    "description": "a $34.99 omelet pan",
+    "points": 0
+  },
+  {
+    "id": "vacuum cleaner",
+    "description": "a $79.99 vacuum cleaner",
+    "points": 0
+  },
+  {
+    "id": "prime membership",
+    "description": "Amazon prime membership",
+    "points": 0
+  },
+  {
+    "id": "ghost of Kirie",
+    "description": "the ghost of Fujou Kirie",
+    "points": 0
+  },
+  {
+    "id": "buffalo chicken",
+    "description": "buffalo chicken wings with ranch",
+    "points": 0
+  },
+  {
+    "id": "cheese pizza",
+    "description": "a cheese pizza",
+    "points": 0
+  },
+  {
+    "id": "pasta",
+    "description": "pasta with marinara",
+    "points": 0
+  },
+  {
+    "id": "smart phone",
+    "description": "a smart phone installed with the game Fate/Grand Order",
+    "points": 0
+  },
+  {
+    "id": "CD",
+    "description": "a CD of the game Fate/Stay Night",
+    "points": 0
+  },
+  {
+    "id": "DVD",
+    "description": "a DVD of the animation Fate/Extra Last Encore",
+    "points": 0
+  },
+  {
+    "id": "blueray DVD",
+    "description": "a blueray DVD of the animation Fate/Stay Night Unlimited Blade Works",
+    "points": 0
+  },
+  {
+    "id": "poster",
+    "description": "a poster of the animation Fate/Zero",
+    "points": 0
+  },
+  {
+    "id": "fiction",
+    "description": "the fiction Fate/Apocrapha",
+    "points": 0
+  },
+  {
+    "id": "seal",
+    "description": "also known as Tanaka Minami",
+    "points": 0
+  },
+  {
+    "id": "golden armor",
+    "description": "the golden armor of Gilgamesh",
+    "points": 0
+  },
+  {
+    "id": "800 carat diamond",
+    "description": "a 800 carat diamond",
+    "points": 0
+  },
+  {
+    "id": "emerald hair stick",
+    "description": "a emerald hair stick",
+    "points": 0
+  },
+  {
+    "id": "ruby",
+    "description": "a high quality ruby",
+    "points": 0
+  },
+  {
+    "id": "sapphire",
+    "description": "a high quality sapphire",
+    "points": 0
+  },
+  {
+    "id": "phosphophyllite",
+    "description": "an extremely rare mineral",
+    "points": 0
+  },
+  {
+    "id": "a fragment of 2030",
+    "description": "generates eight critical stars per turn",
+    "points": 0
+  },
+  {
+    "id": "rose petals",
+    "description": "the favorite decoration of Nero Claudius",
+    "points": 0
+  },
+  {
+    "id": "good civilization",
+    "description": "something that shouldn't be destroyed",
+    "points": 0
+  },
+  {
+    "id": "bad civilization",
+    "description": "something that should be destroyed",
+    "points": 0
+  },
+  {
+    "id": "Tesla Roadster",
+    "description": "one of the inventions of Tesla (?)",
+    "points": 0
+  },
+  {
+    "id": "Tesla Coil",
+    "description": "one of the inventions of Tesla",
+    "points": 0
+  },
+  {
+    "id": "Tesla's Oscillator",
+    "description": "one of the inventions of Tesla",
+    "points": 0
+  },
+  {
+    "id": "Cath Palug",
+    "description": "a cute little animal",
+    "points": 0
+  }
+],
+  "start_inv": ["Regalia piece 1"],
+  "start_locations": [{
+    "room": "area 1-d3",
+    "item": "golden key"
+  },
+  {
+    "room": "talk to archer",
+    "item": "Regalia piece 2"
+  },
+  {
+    "room": "pantheon",
+    "item": "V-CA-I"
+  },
+  {
+    "room": "talk to nero",
+    "item": "V-AS"
+  },
+  {
+    "room": "food store",
+    "item": "white mushroom"
+  },
+  {
+    "room": "food store",
+    "item": "strawberry ice cream"
+  },
+  {
+    "room": "fashion store",
+    "item": "sunglasses"
+  },
+  {
+    "room": "forest",
+    "item": "enoki mushroom"
+  },
+  {
+    "room": "forest",
+    "item": "oyster mushroom"
+  },
+  {
+    "room": "talk to lancer",
+    "item": "Regalia piece 3"
+  },
+  {
+    "room": "black market",
+    "item": "V-CA-II"
+  },
+  {
+    "room": "black market",
+    "item": "V-LA"
+  },
+  {
+    "room": "area 1-e6",
+    "item": "microphone"
+  },
+  {
+    "room": "desert",
+    "item": "Sphnix"
+  },
+  {
+    "room": "caster domain",
+    "item": "Regalia piece 5"
+  },
+  {
+    "room": "talk to archer",
+    "item": "AC current"
+  },
+  {
+    "room": "area 1-e7",
+    "item": "V-CA-III"
+  },
+  {
+    "room": "oasis",
+    "item": "silver key"
+  },
+  {
+    "room": "talk to ozymandias",
+    "item": "credit card"
+  },
+  {
+    "room": "search domain",
+    "item": "Regalia piece 7"
+  },
+  {
+    "room": "talk to rider",
+    "item": "Regalia piece 4"
+  },
+  {
+    "room": "library.cornell.edu",
+    "item": "knowledge.pdf"
+  },
+  {
+    "room": "computer lab",
+    "item": "VPN"
+  },
+  {
+    "room": "amazon.com",
+    "item": "11-piece knife set"
+  },
+  {
+    "room": "talk to assassin",
+    "item": "Regalia piece 6"
+  },
+  {
+    "room": "area 2-e4",
+    "item": "sharp knife"
+  },
+  {
+    "room": "talk to assassin",
+    "item": "stone key"
+  },
+  {
+    "room": "cs3110.org",
+    "item": "V-RI"
+  },
+  {
+    "room": "cs3110.org",
+    "item": "V-BE"
+  },
+  {
+    "room": "area 2-e6",
+    "item": "V-AR"
+  },
+  {
+    "room": "area 2-f6",
+    "item": "bronze key"
+  },
+  {
+    "room": "west hidden chamber",
+    "item": "Excalibur"
+  },
+  {
+    "room": "main chamber",
+    "item": "spellbook"
+  },
+  {
+    "room": "main chamber",
+    "item": "terracotta army"
+  },
+  {
+    "room": "east hidden chamber",
+    "item": "Enuma Elish"
+  },
+  {
+    "room": "talk to shiki",
+    "item": "Chokushi no Magan"
+  },
+  {
+    "room": "area 1-d4",
+    "item": "milk"
+  },
+  {
+    "room": "talk to nero",
+    "item": "DSLR camera"
+  },
+  {
+    "room": "area 1-e4",
+    "item": "wild horse"
+  },
+  {
+    "room": "forest",
+    "item": "apple tree"
+  },
+  {
+    "room": "forest",
+    "item": "beech tree"
+  },
+  {
+    "room": "forest",
+    "item": "cherry tree"
+  },
+  {
+    "room": "forest",
+    "item": "chesnut tree"
+  },
+  {
+    "room": "forest",
+    "item": "maple tree"
+  },
+  {
+    "room": "forest",
+    "item": "yew tree"
+  },
+  {
+    "room": "forest",
+    "item": "binary search tree"
+  },
+  {
+    "room": "forest",
+    "item": "red-black tree"
+  },
+  {
+    "room": "forest",
+    "item": "AVL tree"
+  },
+  {
+    "room": "food store",
+    "item": "vanilla ice cream"
+  },
+  {
+    "room": "food store",
+    "item": "chocolate ice cream"
+  },
+  {
+    "room": "food store",
+    "item": "matcha ice cream"
+  },
+  {
+    "room": "food store",
+    "item": "tomato"
+  },
+  {
+    "room": "food store",
+    "item": "potato"
+  },
+  {
+    "room": "food store",
+    "item": "salted butter"
+  },
+  {
+    "room": "food store",
+    "item": "tuna"
+  },
+  {
+    "room": "food store",
+    "item": "salmon"
+  },
+  {
+    "room": "food store",
+    "item": "bottled water"
+  },
+  {
+    "room": "fashion store",
+    "item": "T shirt"
+  },
+  {
+    "room": "fashion store",
+    "item": "skirt"
+  },
+  {
+    "room": "fashion store",
+    "item": "jeans"
+  },
+  {
+    "room": "fashion store",
+    "item": "socks"
+  },
+  {
+    "room": "fashion store",
+    "item": "belt"
+  },
+  {
+    "room": "black market",
+    "item": "A0 full solution"
+  },
+  {
+    "room": "black market",
+    "item": "A1 full solution"
+  },
+  {
+    "room": "black market",
+    "item": "A2 full solution"
+  },
+  {
+    "room": "black market",
+    "item": "bitcoin"
+  },
+  {
+    "room": "amazon.com",
+    "item": "garlic press"
+  },
+  {
+    "room": "amazon.com",
+    "item": "ramen bowl"
+  },
+  {
+    "room": "amazon.com",
+    "item": "food container"
+  },
+  {
+    "room": "amazon.com",
+    "item": "pillow cover"
+  },
+  {
+    "room": "amazon.com",
+    "item": "omelet pan"
+  },
+  {
+    "room": "amazon.com",
+    "item": "vacuum cleaner"
+  },
+  {
+    "room": "amazon.com",
+    "item": "prime membership"
+  },
+  {
+    "room": "area 2-e4",
+    "item": "ghost of Kirie"
+  },
+  {
+    "room": "area 2-f4",
+    "item": "buffalo chicken"
+  },
+  {
+    "room": "area 2-f4",
+    "item": "cheese pizza"
+  },
+  {
+    "room": "area 2-f4",
+    "item": "pasta"
+  },
+  {
+    "room": "type moon office",
+    "item": "smart phone"
+  },
+  {
+    "room": "type moon office",
+    "item": "CD"
+  },
+  {
+    "room": "type moon office",
+    "item": "DVD"
+  },
+  {
+    "room": "type moon office",
+    "item": "blueray DVD"
+  },
+  {
+    "room": "type moon office",
+    "item": "poster"
+  },
+  {
+    "room": "type moon office",
+    "item": "fiction"
+  },
+  {
+    "room": "type moon office",
+    "item": "seal"
+  },
+  {
+    "room": "king's treasure",
+    "item": "golden armor"
+  },
+  {
+    "room": "king's treasure",
+    "item": "800 carat diamond"
+  },
+  {
+    "room": "king's treasure",
+    "item": "emerald hair stick"
+  },
+  {
+    "room": "king's treasure",
+    "item": "ruby"
+  },
+  {
+    "room": "king's treasure",
+    "item": "sapphire"
+  },
+  {
+    "room": "king's treasure",
+    "item": "phosphophyllite"
+  },
+  {
+    "room": "mooncell core",
+    "item": "a fragment of 2030"
+  },
+  {
+    "room": "colosseum",
+    "item": "rose petals"
+  },
+  {
+    "room": "saber domain",
+    "item": "good civilization"
+  },
+  {
+    "room": "saber domain",
+    "item": "bad civilization"
+  },
+  {
+    "room": "archer domain",
+    "item": "Tesla Coil"
+  },
+  {
+    "room": "archer domain",
+    "item": "Tesla's Oscillator"
+  },
+  {
+    "room": "archer domain",
+    "item": "Tesla Roadster"
+  },
+  {
+    "room": "avalon",
+    "item": "Cath Palug"
+  }
+],
+  "win_message": "
+
+------------------------------------------------------------------------
+
+#    # ###### #      #         #####   ####  #    # ######
+#    # #      #      #         #    # #    # ##   # #
+#    # #####  #      #         #    # #    # # #  # #####
+# ## # #      #      #         #    # #    # #  # # #
+##  ## #      #      #         #    # #    # #   ## #
+#    # ###### ###### ######    #####   ####  #    # ######
+
+After defeating six great heroes and heroines from history or legend,
+after revealing the secret of your companion Altera, and after saving
+human civilization from malicious aliens, you may now enjoy yourself
+in SE.RA.PH with Altera. You may visit any place you have visited
+before and explore the places you haven't. If you are familiar with
+TYPE-MOON games, try finding as many easter eggs as you can!
+
+Thank you very much for playing!!!"
+}
